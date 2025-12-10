@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1710,
+    "title": "Maximum Units on a Truck",
+    "title_slug": "maximum-units-on-a-truck",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  }
+]
