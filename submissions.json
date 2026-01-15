@@ -1,5 +1,14 @@
 [
   {
+    "id": 9,
+    "title": "Palindrome Number",
+    "title_slug": "palindrome-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
