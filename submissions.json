@@ -9,6 +9,20 @@
     ]
   },
   {
+    "id": 268,
+    "title": "Missing Number",
+    "title_slug": "missing-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Hash Table",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
