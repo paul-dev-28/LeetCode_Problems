@@ -23,6 +23,16 @@
     ]
   },
   {
+    "id": 704,
+    "title": "Binary Search",
+    "title_slug": "binary-search",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
