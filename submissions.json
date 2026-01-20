@@ -9,6 +9,17 @@
     ]
   },
   {
+    "id": 20,
+    "title": "Valid Parentheses",
+    "title_slug": "valid-parentheses",
+    "difficulty": "Easy",
+    "skills": [
+      "Bracket Sequences",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",
