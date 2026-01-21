@@ -20,6 +20,15 @@
     ]
   },
   {
+    "id": 58,
+    "title": "Length of Last Word",
+    "title_slug": "length-of-last-word",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",
