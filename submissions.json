@@ -65,6 +65,16 @@
     ]
   },
   {
+    "id": 344,
+    "title": "Reverse String",
+    "title_slug": "reverse-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 414,
     "title": "Third Maximum Number",
     "title_slug": "third-maximum-number",
