@@ -51,6 +51,17 @@
     ]
   },
   {
+    "id": 219,
+    "title": "Contains Duplicate II",
+    "title_slug": "contains-duplicate-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 268,
     "title": "Missing Number",
     "title_slug": "missing-number",
