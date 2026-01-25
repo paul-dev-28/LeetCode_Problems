@@ -60,6 +60,17 @@
     ]
   },
   {
+    "id": 189,
+    "title": "Rotate Array",
+    "title_slug": "rotate-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
