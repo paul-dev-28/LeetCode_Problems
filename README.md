@@ -21,3 +21,4 @@
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
+| 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | `Array` `Sliding Window` `Sorting` |

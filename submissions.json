@@ -155,5 +155,16 @@
     "skills": [
       "Array"
     ]
+  },
+  {
+    "id": 1984,
+    "title": "Minimum Difference Between Highest and Lowest of K Scores",
+    "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sliding Window",
+      "Sorting"
+    ]
   }
 ]
