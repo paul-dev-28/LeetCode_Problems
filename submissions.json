@@ -149,6 +149,15 @@
     ]
   },
   {
+    "id": 1470,
+    "title": "Shuffle the Array",
+    "title_slug": "shuffle-the-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",

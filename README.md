@@ -20,6 +20,7 @@
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium | `Bracket Sequences` `Greedy` `Stack` `String` |
+| 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array) | Easy | `Array` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
