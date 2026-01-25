@@ -137,6 +137,18 @@
     ]
   },
   {
+    "id": 921,
+    "title": "Minimum Add to Make Parentheses Valid",
+    "title_slug": "minimum-add-to-make-parentheses-valid",
+    "difficulty": "Medium",
+    "skills": [
+      "Bracket Sequences",
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
