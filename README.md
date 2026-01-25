@@ -8,6 +8,7 @@
 |---| ----- | ---------- | ------ |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
+| 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
