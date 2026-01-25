@@ -127,6 +127,15 @@
     ]
   },
   {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 704,
     "title": "Binary Search",
     "title_slug": "binary-search",
