@@ -169,6 +169,16 @@
     ]
   },
   {
+    "id": 1929,
+    "title": "Concatenation of Array",
+    "title_slug": "concatenation-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1984,
     "title": "Minimum Difference Between Highest and Lowest of K Scores",
     "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
