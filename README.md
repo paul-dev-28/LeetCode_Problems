@@ -16,6 +16,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
+| 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Floyd's Cycle Finding Algorithm` `Pigeonhole Principle` `Two Pointers` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |

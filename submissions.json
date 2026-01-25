@@ -107,6 +107,20 @@
     ]
   },
   {
+    "id": 287,
+    "title": "Find the Duplicate Number",
+    "title_slug": "find-the-duplicate-number",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Floyd's Cycle Finding Algorithm",
+      "Pigeonhole Principle",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
