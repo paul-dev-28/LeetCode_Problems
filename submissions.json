@@ -350,6 +350,16 @@
     ]
   },
   {
+    "id": 3190,
+    "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+    "title_slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",
