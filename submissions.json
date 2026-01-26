@@ -214,6 +214,15 @@
     ]
   },
   {
+    "id": 1317,
+    "title": "Convert Integer to the Sum of Two No-Zero Integers",
+    "title_slug": "convert-integer-to-the-sum-of-two-no-zero-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1365,
     "title": "How Many Numbers Are Smaller Than the Current Number",
     "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
