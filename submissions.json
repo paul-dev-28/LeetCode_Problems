@@ -302,5 +302,16 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 3541,
+    "title": "Find Most Frequent Vowel and Consonant",
+    "title_slug": "find-most-frequent-vowel-and-consonant",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
   }
 ]
