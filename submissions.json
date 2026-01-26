@@ -285,6 +285,20 @@
     ]
   },
   {
+    "id": 2197,
+    "title": "Replace Non-Coprime Numbers in Array",
+    "title_slug": "replace-non-coprime-numbers-in-array",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Greatest Common Divisor",
+      "Least Common Multiple",
+      "Math",
+      "Number Theory",
+      "Stack"
+    ]
+  },
+  {
     "id": 2785,
     "title": "Sort Vowels in a String",
     "title_slug": "sort-vowels-in-a-string",
