@@ -194,6 +194,16 @@
     ]
   },
   {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "title_slug": "minimum-absolute-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1365,
     "title": "How Many Numbers Are Smaller Than the Current Number",
     "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
