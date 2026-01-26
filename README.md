@@ -35,6 +35,7 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | `Array` `Sliding Window` `Sorting` |
+| 2154 | [Keep Multiplying Found Values by Two](https://leetcode.com/problems/keep-multiplying-found-values-by-two) | Easy | `Array` `Hash Table` `Simulation` `Sorting` |
 | 2197 | [Replace Non-Coprime Numbers in Array](https://leetcode.com/problems/replace-non-coprime-numbers-in-array) | Hard | `Array` `Greatest Common Divisor` `Least Common Multiple` `Math` `Number Theory` `Stack` |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | `Sorting` `String` |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | Easy | `Array` `Counting` `Hash Table` |

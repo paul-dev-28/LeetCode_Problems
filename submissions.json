@@ -303,6 +303,18 @@
     ]
   },
   {
+    "id": 2154,
+    "title": "Keep Multiplying Found Values by Two",
+    "title_slug": "keep-multiplying-found-values-by-two",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2197,
     "title": "Replace Non-Coprime Numbers in Array",
     "title_slug": "replace-non-coprime-numbers-in-array",
