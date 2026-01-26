@@ -371,6 +371,16 @@
     ]
   },
   {
+    "id": 3512,
+    "title": "Minimum Operations to Make Array Sum Divisible by K",
+    "title_slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",
