@@ -264,5 +264,14 @@
       "Sliding Window",
       "Sorting"
     ]
+  },
+  {
+    "id": 3516,
+    "title": "Find Closest Person",
+    "title_slug": "find-closest-person",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
