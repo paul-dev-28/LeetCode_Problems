@@ -309,6 +309,17 @@
     ]
   },
   {
+    "id": 3005,
+    "title": "Count Elements With Maximum Frequency",
+    "title_slug": "count-elements-with-maximum-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",
