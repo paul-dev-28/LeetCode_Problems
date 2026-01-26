@@ -194,6 +194,17 @@
     ]
   },
   {
+    "id": 1015,
+    "title": "Smallest Integer Divisible by K",
+    "title_slug": "smallest-integer-divisible-by-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "Pigeonhole Principle"
+    ]
+  },
+  {
     "id": 1200,
     "title": "Minimum Absolute Difference",
     "title_slug": "minimum-absolute-difference",

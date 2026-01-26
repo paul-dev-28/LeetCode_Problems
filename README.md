@@ -24,6 +24,7 @@
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium | `Bracket Sequences` `Greedy` `Stack` `String` |
+| 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | Medium | `Hash Table` `Math` `Pigeonhole Principle` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | `Math` |
