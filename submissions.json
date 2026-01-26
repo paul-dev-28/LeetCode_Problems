@@ -285,6 +285,16 @@
     ]
   },
   {
+    "id": 2785,
+    "title": "Sort Vowels in a String",
+    "title_slug": "sort-vowels-in-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",

@@ -33,4 +33,5 @@
 | 1752 | [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated) | Easy | `Array` |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores) | Easy | `Array` `Sliding Window` `Sorting` |
+| 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | `Sorting` `String` |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | `Math` |
