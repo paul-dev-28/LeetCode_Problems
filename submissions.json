@@ -371,6 +371,17 @@
     ]
   },
   {
+    "id": 3432,
+    "title": "Count Partitions with Even Sum Difference",
+    "title_slug": "count-partitions-with-even-sum-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3512,
     "title": "Minimum Operations to Make Array Sum Divisible by K",
     "title_slug": "minimum-operations-to-make-array-sum-divisible-by-k",
