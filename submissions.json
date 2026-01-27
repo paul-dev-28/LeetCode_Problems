@@ -382,6 +382,21 @@
     ]
   },
   {
+    "id": 3507,
+    "title": "Minimum Pair Removal to Sort Array I",
+    "title_slug": "minimum-pair-removal-to-sort-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Doubly-Linked List",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Linked List",
+      "Ordered Set",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3512,
     "title": "Minimum Operations to Make Array Sum Divisible by K",
     "title_slug": "minimum-operations-to-make-array-sum-divisible-by-k",
