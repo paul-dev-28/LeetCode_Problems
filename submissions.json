@@ -194,6 +194,17 @@
     ]
   },
   {
+    "id": 944,
+    "title": "Delete Columns to Make Sorted",
+    "title_slug": "delete-columns-to-make-sorted",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Longest Increasing Subsequence",
+      "String"
+    ]
+  },
+  {
     "id": 1015,
     "title": "Smallest Integer Divisible by K",
     "title_slug": "smallest-integer-divisible-by-k",
