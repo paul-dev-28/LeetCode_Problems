@@ -160,6 +160,15 @@
     ]
   },
   {
+    "id": 507,
+    "title": "Perfect Number",
+    "title_slug": "perfect-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 645,
     "title": "Set Mismatch",
     "title_slug": "set-mismatch",
