@@ -253,6 +253,16 @@
     ]
   },
   {
+    "id": 744,
+    "title": "Find Smallest Letter Greater Than Target",
+    "title_slug": "find-smallest-letter-greater-than-target",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 921,
     "title": "Minimum Add to Make Parentheses Valid",
     "title_slug": "minimum-add-to-make-parentheses-valid",
