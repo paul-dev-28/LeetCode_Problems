@@ -273,6 +273,15 @@
     ]
   },
   {
+    "id": 896,
+    "title": "Monotonic Array",
+    "title_slug": "monotonic-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 921,
     "title": "Minimum Add to Make Parentheses Valid",
     "title_slug": "minimum-add-to-make-parentheses-valid",
