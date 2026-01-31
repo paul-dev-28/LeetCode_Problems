@@ -244,6 +244,15 @@
     ]
   },
   {
+    "id": 709,
+    "title": "To Lower Case",
+    "title_slug": "to-lower-case",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 921,
     "title": "Minimum Add to Make Parentheses Valid",
     "title_slug": "minimum-add-to-make-parentheses-valid",
