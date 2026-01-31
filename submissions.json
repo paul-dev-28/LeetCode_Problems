@@ -183,6 +183,17 @@
     ]
   },
   {
+    "id": 415,
+    "title": "Add Strings",
+    "title_slug": "add-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 448,
     "title": "Find All Numbers Disappeared in an Array",
     "title_slug": "find-all-numbers-disappeared-in-an-array",
