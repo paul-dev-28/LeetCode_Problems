@@ -516,6 +516,18 @@
     ]
   },
   {
+    "id": 2587,
+    "title": "Rearrange Array to Maximize Prefix Score",
+    "title_slug": "rearrange-array-to-maximize-prefix-score",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Prefix Sum",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2785,
     "title": "Sort Vowels in a String",
     "title_slug": "sort-vowels-in-a-string",
