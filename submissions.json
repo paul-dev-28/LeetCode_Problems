@@ -316,6 +316,17 @@
     ]
   },
   {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "title_slug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1015,
     "title": "Smallest Integer Divisible by K",
     "title_slug": "smallest-integer-divisible-by-k",
