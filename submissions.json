@@ -234,6 +234,15 @@
     ]
   },
   {
+    "id": 665,
+    "title": "Non-decreasing Array",
+    "title_slug": "non-decreasing-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 704,
     "title": "Binary Search",
     "title_slug": "binary-search",

@@ -28,6 +28,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
+| 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | Medium | `Array` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
