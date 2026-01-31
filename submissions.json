@@ -126,6 +126,15 @@
     ]
   },
   {
+    "id": 263,
+    "title": "Ugly Number",
+    "title_slug": "ugly-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 268,
     "title": "Missing Number",
     "title_slug": "missing-number",
