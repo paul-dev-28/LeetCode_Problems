@@ -263,6 +263,16 @@
     ]
   },
   {
+    "id": 747,
+    "title": "Largest Number At Least Twice of Others",
+    "title_slug": "largest-number-at-least-twice-of-others",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 921,
     "title": "Minimum Add to Make Parentheses Valid",
     "title_slug": "minimum-add-to-make-parentheses-valid",
