@@ -327,6 +327,16 @@
     ]
   },
   {
+    "id": 989,
+    "title": "Add to Array-Form of Integer",
+    "title_slug": "add-to-array-form-of-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1015,
     "title": "Smallest Integer Divisible by K",
     "title_slug": "smallest-integer-divisible-by-k",
