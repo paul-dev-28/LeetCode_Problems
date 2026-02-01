@@ -655,5 +655,15 @@
       "Heap (Priority Queue)",
       "Shortest Path"
     ]
+  },
+  {
+    "id": 3827,
+    "title": "Count Monobit Integers",
+    "title_slug": "count-monobit-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Enumeration"
+    ]
   }
 ]
