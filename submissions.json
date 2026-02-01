@@ -558,6 +558,17 @@
     ]
   },
   {
+    "id": 3010,
+    "title": "Divide an Array Into Subarrays With Minimum Cost I",
+    "title_slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3074,
     "title": "Apple Redistribution into Boxes",
     "title_slug": "apple-redistribution-into-boxes",
