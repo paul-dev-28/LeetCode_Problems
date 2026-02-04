@@ -257,6 +257,16 @@
     ]
   },
   {
+    "id": 605,
+    "title": "Can Place Flowers",
+    "title_slug": "can-place-flowers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 645,
     "title": "Set Mismatch",
     "title_slug": "set-mismatch",
