@@ -438,6 +438,18 @@
     ]
   },
   {
+    "id": 1679,
+    "title": "Max Number of K-Sum Pairs",
+    "title_slug": "max-number-of-k-sum-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
