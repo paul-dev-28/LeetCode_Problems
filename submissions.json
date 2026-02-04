@@ -184,6 +184,17 @@
     ]
   },
   {
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 414,
     "title": "Third Maximum Number",
     "title_slug": "third-maximum-number",
