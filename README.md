@@ -15,6 +15,7 @@
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` `Newton's Method` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
+| 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
