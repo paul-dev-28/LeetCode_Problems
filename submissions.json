@@ -207,6 +207,16 @@
     ]
   },
   {
+    "id": 367,
+    "title": "Valid Perfect Square",
+    "title_slug": "valid-perfect-square",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 392,
     "title": "Is Subsequence",
     "title_slug": "is-subsequence",
