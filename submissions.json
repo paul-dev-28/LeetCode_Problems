@@ -765,6 +765,18 @@
     ]
   },
   {
+    "id": 3634,
+    "title": "Minimum Removals to Balance Array",
+    "title_slug": "minimum-removals-to-balance-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3637,
     "title": "Trionic Array I",
     "title_slug": "trionic-array-i",
