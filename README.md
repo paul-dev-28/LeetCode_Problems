@@ -49,6 +49,7 @@
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | Medium | `Hash Table` `Math` `Pigeonhole Principle` |
+| 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | `Array` `Two Pointers` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | `Math` |
