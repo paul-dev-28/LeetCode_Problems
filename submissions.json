@@ -502,6 +502,17 @@
     ]
   },
   {
+    "id": 1653,
+    "title": "Minimum Deletions to Make String Balanced",
+    "title_slug": "minimum-deletions-to-make-string-balanced",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1679,
     "title": "Max Number of K-Sum Pairs",
     "title_slug": "max-number-of-k-sum-pairs",
