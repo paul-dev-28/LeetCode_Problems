@@ -471,6 +471,16 @@
     ]
   },
   {
+    "id": 1295,
+    "title": "Find Numbers with Even Number of Digits",
+    "title_slug": "find-numbers-with-even-number-of-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1304,
     "title": "Find N Unique Integers Sum up to Zero",
     "title_slug": "find-n-unique-integers-sum-up-to-zero",
