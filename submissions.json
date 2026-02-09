@@ -523,6 +523,20 @@
     ]
   },
   {
+    "id": 1382,
+    "title": "Balance a Binary Search Tree",
+    "title_slug": "balance-a-binary-search-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Divide and Conquer",
+      "Greedy",
+      "Tree"
+    ]
+  },
+  {
     "id": 1437,
     "title": "Check If All 1's Are at Least Length K Places Away",
     "title_slug": "check-if-all-1s-are-at-least-length-k-places-away",
