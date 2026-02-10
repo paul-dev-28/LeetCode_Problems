@@ -451,6 +451,18 @@
     ]
   },
   {
+    "id": 1051,
+    "title": "Height Checker",
+    "title_slug": "height-checker",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bubble Sort",
+      "Counting Sort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1089,
     "title": "Duplicate Zeros",
     "title_slug": "duplicate-zeros",
