@@ -473,6 +473,17 @@
     ]
   },
   {
+    "id": 1137,
+    "title": "N-th Tribonacci Number",
+    "title_slug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 1200,
     "title": "Minimum Absolute Difference",
     "title_slug": "minimum-absolute-difference",
