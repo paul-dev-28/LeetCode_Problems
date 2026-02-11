@@ -907,6 +907,19 @@
     ]
   },
   {
+    "id": 3721,
+    "title": "Longest Balanced Subarray II",
+    "title_slug": "longest-balanced-subarray-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Hash Table",
+      "Prefix Sum",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 3827,
     "title": "Count Monobit Integers",
     "title_slug": "count-monobit-integers",
