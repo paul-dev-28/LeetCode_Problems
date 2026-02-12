@@ -894,6 +894,18 @@
     ]
   },
   {
+    "id": 3713,
+    "title": "Longest Balanced Substring I",
+    "title_slug": "longest-balanced-substring-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Enumeration",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3719,
     "title": "Longest Balanced Subarray I",
     "title_slug": "longest-balanced-subarray-i",
