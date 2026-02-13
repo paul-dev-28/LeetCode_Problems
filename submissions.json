@@ -906,6 +906,17 @@
     ]
   },
   {
+    "id": 3714,
+    "title": "Longest Balanced Substring II",
+    "title_slug": "longest-balanced-substring-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 3719,
     "title": "Longest Balanced Subarray I",
     "title_slug": "longest-balanced-subarray-i",
