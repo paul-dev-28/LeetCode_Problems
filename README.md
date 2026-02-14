@@ -42,6 +42,7 @@
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | `Array` `Sorting` |
+| 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | Medium | `Dynamic Programming` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium | `Bracket Sequences` `Greedy` `Stack` `String` |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | Easy | `Array` `Longest Increasing Subsequence` `String` |
