@@ -60,6 +60,18 @@
     ]
   },
   {
+    "id": 67,
+    "title": "Add Binary",
+    "title_slug": "add-binary",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 69,
     "title": "Sqrt(x)",
     "title_slug": "sqrtx",
