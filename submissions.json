@@ -114,6 +114,16 @@
     ]
   },
   {
+    "id": 190,
+    "title": "Reverse Bits",
+    "title_slug": "reverse-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer"
+    ]
+  },
+  {
     "id": 215,
     "title": "Kth Largest Element in an Array",
     "title_slug": "kth-largest-element-in-an-array",
