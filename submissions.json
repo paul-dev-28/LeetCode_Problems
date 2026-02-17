@@ -250,6 +250,17 @@
     ]
   },
   {
+    "id": 342,
+    "title": "Power of Four",
+    "title_slug": "power-of-four",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",

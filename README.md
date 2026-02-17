@@ -29,6 +29,7 @@
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Floyd's Cycle Finding Algorithm` `Pigeonhole Principle` `Two Pointers` |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
+| 0342 | [Power of Four](https://leetcode.com/problems/power-of-four) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
