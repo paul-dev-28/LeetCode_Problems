@@ -302,6 +302,17 @@
     ]
   },
   {
+    "id": 412,
+    "title": "Fizz Buzz",
+    "title_slug": "fizz-buzz",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 414,
     "title": "Third Maximum Number",
     "title_slug": "third-maximum-number",
