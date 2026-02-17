@@ -30,6 +30,7 @@
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square) | Easy | `Binary Search` `Math` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
+| 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | Easy | `Backtracking` `Bit Manipulation` |
 | 0414 | [Third Maximum Number](https://leetcode.com/problems/third-maximum-number) | Easy | `Array` `Sorting` |
 | 0415 | [Add Strings](https://leetcode.com/problems/add-strings) | Easy | `Math` `Simulation` `String` |
 | 0441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins) | Easy | `Binary Search` `Math` |

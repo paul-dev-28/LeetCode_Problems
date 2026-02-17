@@ -259,6 +259,16 @@
     ]
   },
   {
+    "id": 401,
+    "title": "Binary Watch",
+    "title_slug": "binary-watch",
+    "difficulty": "Easy",
+    "skills": [
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 414,
     "title": "Third Maximum Number",
     "title_slug": "third-maximum-number",
