@@ -124,6 +124,18 @@
     ]
   },
   {
+    "id": 202,
+    "title": "Happy Number",
+    "title_slug": "happy-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Floyd's Cycle Finding Algorithm",
+      "Hash Table",
+      "Math",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 215,
     "title": "Kth Largest Element in an Array",
     "title_slug": "kth-largest-element-in-an-array",
