@@ -672,6 +672,18 @@
     ]
   },
   {
+    "id": 1512,
+    "title": "Number of Good Pairs",
+    "title_slug": "number-of-good-pairs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 1523,
     "title": "Count Odd Numbers in an Interval Range",
     "title_slug": "count-odd-numbers-in-an-interval-range",
