@@ -803,6 +803,19 @@
     ]
   },
   {
+    "id": 2427,
+    "title": "Number of Common Factors",
+    "title_slug": "number-of-common-factors",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2587,
     "title": "Rearrange Array to Maximize Prefix Score",
     "title_slug": "rearrange-array-to-maximize-prefix-score",
