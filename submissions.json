@@ -789,6 +789,16 @@
     ]
   },
   {
+    "id": 2180,
+    "title": "Count Integers With Even Digit Sum",
+    "title_slug": "count-integers-with-even-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2197,
     "title": "Replace Non-Coprime Numbers in Array",
     "title_slug": "replace-non-coprime-numbers-in-array",
