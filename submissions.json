@@ -875,6 +875,16 @@
     ]
   },
   {
+    "id": 2413,
+    "title": "Smallest Even Multiple",
+    "title_slug": "smallest-even-multiple",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2427,
     "title": "Number of Common Factors",
     "title_slug": "number-of-common-factors",
