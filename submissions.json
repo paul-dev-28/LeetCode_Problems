@@ -734,6 +734,16 @@
     ]
   },
   {
+    "id": 1822,
+    "title": "Sign of the Product of an Array",
+    "title_slug": "sign-of-the-product-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
