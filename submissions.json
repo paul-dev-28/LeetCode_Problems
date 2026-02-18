@@ -672,6 +672,15 @@
     ]
   },
   {
+    "id": 1523,
+    "title": "Count Odd Numbers in an Interval Range",
+    "title_slug": "count-odd-numbers-in-an-interval-range",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1653,
     "title": "Minimum Deletions to Make String Balanced",
     "title_slug": "minimum-deletions-to-make-string-balanced",
