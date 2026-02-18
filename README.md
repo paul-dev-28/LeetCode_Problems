@@ -45,6 +45,7 @@
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | `Array` `Greedy` |
 | 0645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch) | Easy | `Array` `Bit Manipulation` `Hash Table` `Sorting` |
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | Medium | `Array` |
+| 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | `Bit Manipulation` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
