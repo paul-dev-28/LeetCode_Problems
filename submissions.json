@@ -797,6 +797,19 @@
     ]
   },
   {
+    "id": 1952,
+    "title": "Three Divisors",
+    "title_slug": "three-divisors",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math",
+      "Number Theory",
+      "Prime Factorization",
+      "Sieve Theory"
+    ]
+  },
+  {
     "id": 1984,
     "title": "Minimum Difference Between Highest and Lowest of K Scores",
     "title_slug": "minimum-difference-between-highest-and-lowest-of-k-scores",
