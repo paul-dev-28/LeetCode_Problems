@@ -803,6 +803,15 @@
     ]
   },
   {
+    "id": 2235,
+    "title": "Add Two Integers",
+    "title_slug": "add-two-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2427,
     "title": "Number of Common Factors",
     "title_slug": "number-of-common-factors",
