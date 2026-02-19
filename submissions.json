@@ -422,6 +422,16 @@
     ]
   },
   {
+    "id": 696,
+    "title": "Count Binary Substrings",
+    "title_slug": "count-binary-substrings",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 704,
     "title": "Binary Search",
     "title_slug": "binary-search",
