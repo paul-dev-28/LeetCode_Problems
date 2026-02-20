@@ -609,6 +609,17 @@
     ]
   },
   {
+    "id": 1232,
+    "title": "Check If It Is a Straight Line",
+    "title_slug": "check-if-it-is-a-straight-line",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 1295,
     "title": "Find Numbers with Even Number of Digits",
     "title_slug": "find-numbers-with-even-number-of-digits",
