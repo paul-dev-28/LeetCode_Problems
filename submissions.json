@@ -939,6 +939,15 @@
     ]
   },
   {
+    "id": 2469,
+    "title": "Convert the Temperature",
+    "title_slug": "convert-the-temperature",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2587,
     "title": "Rearrange Array to Maximize Prefix Score",
     "title_slug": "rearrange-array-to-maximize-prefix-score",
