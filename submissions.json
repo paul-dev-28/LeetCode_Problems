@@ -471,6 +471,17 @@
     ]
   },
   {
+    "id": 761,
+    "title": "Special Binary String",
+    "title_slug": "special-binary-string",
+    "difficulty": "Hard",
+    "skills": [
+      "Divide and Conquer",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 799,
     "title": "Champagne Tower",
     "title_slug": "champagne-tower",
