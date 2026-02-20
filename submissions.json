@@ -620,6 +620,15 @@
     ]
   },
   {
+    "id": 1281,
+    "title": "Subtract the Product and Sum of Digits of an Integer",
+    "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 1295,
     "title": "Find Numbers with Even Number of Digits",
     "title_slug": "find-numbers-with-even-number-of-digits",
