@@ -52,6 +52,7 @@
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | `Array` `Sorting` |
 | 0761 | [Special Binary String](https://leetcode.com/problems/special-binary-string) | Hard | `Divide and Conquer` `Sorting` `String` |
+| 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` `Primality Test` |
 | 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | Medium | `Dynamic Programming` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium | `Bracket Sequences` `Greedy` `Stack` `String` |
