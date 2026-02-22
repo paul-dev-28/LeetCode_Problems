@@ -502,6 +502,15 @@
     ]
   },
   {
+    "id": 868,
+    "title": "Binary Gap",
+    "title_slug": "binary-gap",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 896,
     "title": "Monotonic Array",
     "title_slug": "monotonic-array",
