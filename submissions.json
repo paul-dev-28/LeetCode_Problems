@@ -382,6 +382,17 @@
     ]
   },
   {
+    "id": 566,
+    "title": "Reshape the Matrix",
+    "title_slug": "reshape-the-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 605,
     "title": "Can Place Flowers",
     "title_slug": "can-place-flowers",
