@@ -724,6 +724,20 @@
     ]
   },
   {
+    "id": 1461,
+    "title": "Check If a String Contains All Binary Codes of Size K",
+    "title_slug": "check-if-a-string-contains-all-binary-codes-of-size-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Directed Acyclic Graph",
+      "Hash Function",
+      "Hash Table",
+      "Rolling Hash",
+      "String"
+    ]
+  },
+  {
     "id": 1470,
     "title": "Shuffle the Array",
     "title_slug": "shuffle-the-array",
