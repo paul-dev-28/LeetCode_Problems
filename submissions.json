@@ -711,6 +711,18 @@
     ]
   },
   {
+    "id": 1356,
+    "title": "Sort Integers by The Number of 1 Bits",
+    "title_slug": "sort-integers-by-the-number-of-1-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Counting",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1365,
     "title": "How Many Numbers Are Smaller Than the Current Number",
     "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
