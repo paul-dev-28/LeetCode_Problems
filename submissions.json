@@ -1260,6 +1260,18 @@
     ]
   },
   {
+    "id": 3842,
+    "title": "Toggle Light Bulbs",
+    "title_slug": "toggle-light-bulbs",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Simulation",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3847,
     "title": "Find the Score Difference in a Game",
     "title_slug": "find-the-score-difference-in-a-game",

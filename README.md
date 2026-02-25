@@ -124,4 +124,5 @@
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i) | Medium | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii) | Hard | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
 | 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers) | Easy | `Bit Manipulation` `Enumeration` |
+| 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs) | Easy | `Array` `Hash Table` `Simulation` `Sorting` |
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game) | Medium | `Array` `Simulation` |
