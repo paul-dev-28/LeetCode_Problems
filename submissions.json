@@ -749,6 +749,17 @@
     ]
   },
   {
+    "id": 1404,
+    "title": "Number of Steps to Reduce a Number in Binary Representation to One",
+    "title_slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 1437,
     "title": "Check If All 1's Are at Least Length K Places Away",
     "title_slug": "check-if-all-1s-are-at-least-length-k-places-away",
