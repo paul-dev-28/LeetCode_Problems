@@ -1212,6 +1212,19 @@
     ]
   },
   {
+    "id": 3666,
+    "title": "Minimum Operations to Equalize Binary String",
+    "title_slug": "minimum-operations-to-equalize-binary-string",
+    "difficulty": "Hard",
+    "skills": [
+      "Breadth-First Search",
+      "Math",
+      "Ordered Set",
+      "String",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 3713,
     "title": "Longest Balanced Substring I",
     "title_slug": "longest-balanced-substring-i",

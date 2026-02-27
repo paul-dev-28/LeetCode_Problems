@@ -120,6 +120,7 @@
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | Easy | `Array` |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii) | Hard | `Array` `Dynamic Programming` |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | Medium | `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
+| 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string) | Hard | `Breadth-First Search` `Math` `Ordered Set` `String` `Union-Find` |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i) | Medium | `Counting` `Enumeration` `Hash Table` `String` |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii) | Medium | `Hash Table` `Prefix Sum` `String` |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i) | Medium | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
