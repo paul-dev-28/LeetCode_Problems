@@ -836,6 +836,17 @@
     ]
   },
   {
+    "id": 1680,
+    "title": "Concatenation of Consecutive Binary Numbers",
+    "title_slug": "concatenation-of-consecutive-binary-numbers",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
