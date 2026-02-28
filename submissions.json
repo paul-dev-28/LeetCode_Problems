@@ -1060,6 +1060,15 @@
     ]
   },
   {
+    "id": 2894,
+    "title": "Divisible and Non-divisible Sums Difference",
+    "title_slug": "divisible-and-non-divisible-sums-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3005,
     "title": "Count Elements With Maximum Frequency",
     "title_slug": "count-elements-with-maximum-frequency",
