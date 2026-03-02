@@ -813,6 +813,17 @@
     ]
   },
   {
+    "id": 1536,
+    "title": "Minimum Swaps to Arrange a Binary Grid",
+    "title_slug": "minimum-swaps-to-arrange-a-binary-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1653,
     "title": "Minimum Deletions to Make String Balanced",
     "title_slug": "minimum-deletions-to-make-string-balanced",
