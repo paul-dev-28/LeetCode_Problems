@@ -824,6 +824,17 @@
     ]
   },
   {
+    "id": 1545,
+    "title": "Find Kth Bit in Nth Binary String",
+    "title_slug": "find-kth-bit-in-nth-binary-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Recursion",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 1653,
     "title": "Minimum Deletions to Make String Balanced",
     "title_slug": "minimum-deletions-to-make-string-balanced",
