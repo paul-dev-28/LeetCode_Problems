@@ -1368,6 +1368,17 @@
     ]
   },
   {
+    "id": 3852,
+    "title": "Smallest Pair With Different Frequencies",
+    "title_slug": "smallest-pair-with-different-frequencies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3853,
     "title": "Merge Close Characters",
     "title_slug": "merge-close-characters",
