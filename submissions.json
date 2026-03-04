@@ -1366,5 +1366,15 @@
       "Array",
       "Simulation"
     ]
+  },
+  {
+    "id": 3854,
+    "title": "Minimum Operations to Make Array Parity Alternating",
+    "title_slug": "minimum-operations-to-make-array-parity-alternating",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
   }
 ]
