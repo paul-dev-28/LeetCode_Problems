@@ -134,4 +134,5 @@
 | 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers) | Easy | `Bit Manipulation` `Enumeration` |
 | 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs) | Easy | `Array` `Hash Table` `Simulation` `Sorting` |
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game) | Medium | `Array` `Simulation` |
+| 3853 | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters) | Medium | `Hash Table` `String` |
 | 3854 | [Minimum Operations to Make Array Parity Alternating](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating) | Medium | `Array` `Greedy` |

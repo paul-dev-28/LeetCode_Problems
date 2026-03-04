@@ -1368,6 +1368,16 @@
     ]
   },
   {
+    "id": 3853,
+    "title": "Merge Close Characters",
+    "title_slug": "merge-close-characters",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3854,
     "title": "Minimum Operations to Make Array Parity Alternating",
     "title_slug": "minimum-operations-to-make-array-parity-alternating",
