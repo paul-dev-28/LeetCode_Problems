@@ -835,6 +835,16 @@
     ]
   },
   {
+    "id": 1582,
+    "title": "Special Positions in a Binary Matrix",
+    "title_slug": "special-positions-in-a-binary-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1653,
     "title": "Minimum Deletions to Make String Balanced",
     "title_slug": "minimum-deletions-to-make-string-balanced",
