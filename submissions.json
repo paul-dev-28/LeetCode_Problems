@@ -918,6 +918,15 @@
     ]
   },
   {
+    "id": 1758,
+    "title": "Minimum Changes To Make Alternating Binary String",
+    "title_slug": "minimum-changes-to-make-alternating-binary-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 1768,
     "title": "Merge Strings Alternately",
     "title_slug": "merge-strings-alternately",
