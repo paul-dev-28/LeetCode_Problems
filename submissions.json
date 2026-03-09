@@ -1197,6 +1197,16 @@
     ]
   },
   {
+    "id": 3129,
+    "title": "Find All Possible Stable Binary Arrays I",
+    "title_slug": "find-all-possible-stable-binary-arrays-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3190,
     "title": "Find Minimum Operations to Make All Elements Divisible by Three",
     "title_slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
