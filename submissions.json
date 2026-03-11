@@ -586,6 +586,15 @@
     ]
   },
   {
+    "id": 1009,
+    "title": "Complement of Base 10 Integer",
+    "title_slug": "complement-of-base-10-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 1015,
     "title": "Smallest Integer Divisible by K",
     "title_slug": "smallest-integer-divisible-by-k",
