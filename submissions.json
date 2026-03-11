@@ -354,6 +354,15 @@
     ]
   },
   {
+    "id": 476,
+    "title": "Number Complement",
+    "title_slug": "number-complement",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
