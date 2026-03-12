@@ -1311,6 +1311,19 @@
     ]
   },
   {
+    "id": 3600,
+    "title": "Maximize Spanning Tree Stability with Upgrades",
+    "title_slug": "maximize-spanning-tree-stability-with-upgrades",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Search",
+      "Graph Theory",
+      "Greedy",
+      "Minimum Spanning Tree",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 3634,
     "title": "Minimum Removals to Balance Array",
     "title_slug": "minimum-removals-to-balance-array",
