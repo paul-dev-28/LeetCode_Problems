@@ -1245,6 +1245,19 @@
     ]
   },
   {
+    "id": 3296,
+    "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+    "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Math"
+    ]
+  },
+  {
     "id": 3379,
     "title": "Transformed Array",
     "title_slug": "transformed-array",

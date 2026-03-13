@@ -124,6 +124,7 @@
 | 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) | Medium | `Dynamic Programming` `Prefix Sum` |
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii) | Hard | `Dynamic Programming` `Prefix Sum` |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | `Array` `Math` |
+| 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) | Medium | `Array` `Binary Search` `Greedy` `Heap (Priority Queue)` `Math` |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | Easy | `Array` `Simulation` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | Easy | `Array` `Math` `Prefix Sum` |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i) | Easy | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
