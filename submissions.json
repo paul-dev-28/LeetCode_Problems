@@ -778,6 +778,16 @@
     ]
   },
   {
+    "id": 1415,
+    "title": "The k-th Lexicographical String of All Happy Strings of Length n",
+    "title_slug": "the-k-th-lexicographical-string-of-all-happy-strings-of-length-n",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "String"
+    ]
+  },
+  {
     "id": 1437,
     "title": "Check If All 1's Are at Least Length K Places Away",
     "title_slug": "check-if-all-1s-are-at-least-length-k-places-away",
