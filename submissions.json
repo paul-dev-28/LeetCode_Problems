@@ -873,6 +873,19 @@
     ]
   },
   {
+    "id": 1622,
+    "title": "Fancy Sequence",
+    "title_slug": "fancy-sequence",
+    "difficulty": "Hard",
+    "skills": [
+      "Design",
+      "Fermat's Little Theorem",
+      "Math",
+      "Number Theory",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 1653,
     "title": "Minimum Deletions to Make String Balanced",
     "title_slug": "minimum-deletions-to-make-string-balanced",
