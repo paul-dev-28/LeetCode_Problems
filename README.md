@@ -149,3 +149,4 @@
 | 3852 | [Smallest Pair With Different Frequencies](https://leetcode.com/problems/smallest-pair-with-different-frequencies) | Easy | `Array` `Counting` `Hash Table` |
 | 3853 | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters) | Medium | `Hash Table` `String` |
 | 3854 | [Minimum Operations to Make Array Parity Alternating](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating) | Medium | `Array` `Greedy` |
+| 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | Easy | `Math` |
