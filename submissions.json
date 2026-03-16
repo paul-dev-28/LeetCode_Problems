@@ -1009,6 +1009,20 @@
     ]
   },
   {
+    "id": 1878,
+    "title": "Get Biggest Three Rhombus Sums in a Grid",
+    "title_slug": "get-biggest-three-rhombus-sums-in-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Math",
+      "Matrix",
+      "Prefix Sum",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1888,
     "title": "Minimum Number of Flips to Make the Binary String Alternating",
     "title_slug": "minimum-number-of-flips-to-make-the-binary-string-alternating",
