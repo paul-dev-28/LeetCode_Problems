@@ -94,6 +94,16 @@
     ]
   },
   {
+    "id": 119,
+    "title": "Pascal's Triangle II",
+    "title_slug": "pascals-triangle-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 172,
     "title": "Factorial Trailing Zeroes",
     "title_slug": "factorial-trailing-zeroes",
