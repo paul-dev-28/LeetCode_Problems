@@ -1563,6 +1563,17 @@
     ]
   },
   {
+    "id": 3866,
+    "title": "First Unique Even Element",
+    "title_slug": "first-unique-even-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3870,
     "title": "Count Commas in Range",
     "title_slug": "count-commas-in-range",
