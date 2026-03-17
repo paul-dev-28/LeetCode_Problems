@@ -960,6 +960,18 @@
     ]
   },
   {
+    "id": 1727,
+    "title": "Largest Submatrix With Rearrangements",
+    "title_slug": "largest-submatrix-with-rearrangements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1752,
     "title": "Check if Array Is Sorted and Rotated",
     "title_slug": "check-if-array-is-sorted-and-rotated",
