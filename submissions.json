@@ -1315,6 +1315,17 @@
     ]
   },
   {
+    "id": 3212,
+    "title": "Count Submatrices With Equal Frequency of X and Y",
+    "title_slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3296,
     "title": "Minimum Number of Seconds to Make Mountain Height Zero",
     "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
