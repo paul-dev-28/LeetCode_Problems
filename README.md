@@ -138,6 +138,7 @@
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | Easy | `Array` `Math` |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | `Math` |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | Easy | `Counting` `Hash Table` `String` |
+| 3567 | [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix) | Medium | `Array` `Matrix` `Sorting` |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades) | Hard | `Binary Search` `Graph Theory` `Greedy` `Minimum Spanning Tree` `Union-Find` |
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array) | Medium | `Array` `Binary Search` `Sliding Window` `Sorting` |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | Easy | `Array` |

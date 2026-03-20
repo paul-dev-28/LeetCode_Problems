@@ -1405,6 +1405,17 @@
     ]
   },
   {
+    "id": 3567,
+    "title": "Minimum Absolute Difference in Sliding Submatrix",
+    "title_slug": "minimum-absolute-difference-in-sliding-submatrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3600,
     "title": "Maximize Spanning Tree Stability with Upgrades",
     "title_slug": "maximize-spanning-tree-stability-with-upgrades",
