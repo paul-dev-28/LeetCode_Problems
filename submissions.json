@@ -1460,6 +1460,17 @@
     ]
   },
   {
+    "id": 3643,
+    "title": "Flip Square Submatrix Vertically",
+    "title_slug": "flip-square-submatrix-vertically",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3650,
     "title": "Minimum Cost Path with Edge Reversals",
     "title_slug": "minimum-cost-path-with-edge-reversals",

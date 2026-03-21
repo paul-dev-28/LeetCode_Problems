@@ -143,6 +143,7 @@
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array) | Medium | `Array` `Binary Search` `Sliding Window` `Sorting` |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | Easy | `Array` |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii) | Hard | `Array` `Dynamic Programming` |
+| 3643 | [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically) | Easy | `Array` `Matrix` `Two Pointers` |
 | 3650 | [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals) | Medium | `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string) | Hard | `Breadth-First Search` `Math` `Ordered Set` `String` `Union-Find` |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i) | Medium | `Counting` `Enumeration` `Hash Table` `String` |
