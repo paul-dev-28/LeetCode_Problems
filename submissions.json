@@ -883,6 +883,17 @@
     ]
   },
   {
+    "id": 1594,
+    "title": "Maximum Non Negative Product in a Matrix",
+    "title_slug": "maximum-non-negative-product-in-a-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1622,
     "title": "Fancy Sequence",
     "title_slug": "fancy-sequence",
