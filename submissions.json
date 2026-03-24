@@ -1250,6 +1250,17 @@
     ]
   },
   {
+    "id": 2906,
+    "title": "Construct Product Matrix",
+    "title_slug": "construct-product-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3005,
     "title": "Count Elements With Maximum Frequency",
     "title_slug": "count-elements-with-maximum-frequency",
