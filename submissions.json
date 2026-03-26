@@ -1449,6 +1449,19 @@
     ]
   },
   {
+    "id": 3548,
+    "title": "Equal Sum Grid Partition II",
+    "title_slug": "equal-sum-grid-partition-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Matrix",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3567,
     "title": "Minimum Absolute Difference in Sliding Submatrix",
     "title_slug": "minimum-absolute-difference-in-sliding-submatrix",

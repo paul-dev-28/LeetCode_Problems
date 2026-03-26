@@ -142,6 +142,7 @@
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | `Math` |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | Easy | `Counting` `Hash Table` `String` |
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i) | Medium | `Array` `Enumeration` `Matrix` `Prefix Sum` |
+| 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii) | Hard | `Array` `Enumeration` `Hash Table` `Matrix` `Prefix Sum` |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix) | Medium | `Array` `Matrix` `Sorting` |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades) | Hard | `Binary Search` `Graph Theory` `Greedy` `Minimum Spanning Tree` `Union-Find` |
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array) | Medium | `Array` `Binary Search` `Sliding Window` `Sorting` |
