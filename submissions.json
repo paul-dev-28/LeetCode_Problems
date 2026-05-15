@@ -1241,6 +1241,17 @@
     ]
   },
   {
+    "id": 2784,
+    "title": "Check if Array is Good",
+    "title_slug": "check-if-array-is-good",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2785,
     "title": "Sort Vowels in a String",
     "title_slug": "sort-vowels-in-a-string",
