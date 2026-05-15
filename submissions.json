@@ -1229,6 +1229,16 @@
     ]
   },
   {
+    "id": 2553,
+    "title": "Separate the Digits in an Array",
+    "title_slug": "separate-the-digits-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 2587,
     "title": "Rearrange Array to Maximize Prefix Score",
     "title_slug": "rearrange-array-to-maximize-prefix-score",
