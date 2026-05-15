@@ -1632,6 +1632,15 @@
     ]
   },
   {
+    "id": 3783,
+    "title": "Mirror Distance of an Integer",
+    "title_slug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3827,
     "title": "Count Monobit Integers",
     "title_slug": "count-monobit-integers",
