@@ -114,6 +114,16 @@
     ]
   },
   {
+    "id": 136,
+    "title": "Single Number",
+    "title_slug": "single-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 153,
     "title": "Find Minimum in Rotated Sorted Array",
     "title_slug": "find-minimum-in-rotated-sorted-array",
