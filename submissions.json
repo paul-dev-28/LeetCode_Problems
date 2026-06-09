@@ -157,6 +157,20 @@
     ]
   },
   {
+    "id": 169,
+    "title": "Majority Element",
+    "title_slug": "majority-element",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Boyer–Moore Majority Vote Algorithm",
+      "Counting",
+      "Divide and Conquer",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 172,
     "title": "Factorial Trailing Zeroes",
     "title_slug": "factorial-trailing-zeroes",
