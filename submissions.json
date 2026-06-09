@@ -51,6 +51,16 @@
     ]
   },
   {
+    "id": 31,
+    "title": "Next Permutation",
+    "title_slug": "next-permutation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
