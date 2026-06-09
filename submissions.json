@@ -51,6 +51,17 @@
     ]
   },
   {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "title_slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 58,
     "title": "Length of Last Word",
     "title_slug": "length-of-last-word",

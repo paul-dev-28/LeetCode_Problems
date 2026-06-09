@@ -11,6 +11,7 @@
 | 0011 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water) | Medium | `Array` `Greedy` `Two Pointers` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0066 | [Plus One](https://leetcode.com/problems/plus-one) | Easy | `Array` `Math` |
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
