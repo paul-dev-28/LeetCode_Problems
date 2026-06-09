@@ -697,6 +697,16 @@
     ]
   },
   {
+    "id": 796,
+    "title": "Rotate String",
+    "title_slug": "rotate-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "String Matching"
+    ]
+  },
+  {
     "id": 799,
     "title": "Champagne Tower",
     "title_slug": "champagne-tower",

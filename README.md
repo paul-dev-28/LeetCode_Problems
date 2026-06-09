@@ -72,6 +72,7 @@
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | `Array` `Sorting` |
 | 0761 | [Special Binary String](https://leetcode.com/problems/special-binary-string) | Hard | `Divide and Conquer` `Sorting` `String` |
 | 0762 | [Prime Number of Set Bits in Binary Representation](https://leetcode.com/problems/prime-number-of-set-bits-in-binary-representation) | Easy | `Bit Manipulation` `Math` `Primality Test` |
+| 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | Medium | `Dynamic Programming` |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | `Bit Manipulation` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
