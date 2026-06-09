@@ -30,6 +30,17 @@
     ]
   },
   {
+    "id": 14,
+    "title": "Longest Common Prefix",
+    "title_slug": "longest-common-prefix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 20,
     "title": "Valid Parentheses",
     "title_slug": "valid-parentheses",
