@@ -618,6 +618,15 @@
     ]
   },
   {
+    "id": 434,
+    "title": "Number of Segments in a String",
+    "title_slug": "number-of-segments-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 441,
     "title": "Arranging Coins",
     "title_slug": "arranging-coins",
