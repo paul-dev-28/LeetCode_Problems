@@ -575,6 +575,17 @@
     ]
   },
   {
+    "id": 409,
+    "title": "Longest Palindrome",
+    "title_slug": "longest-palindrome",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 412,
     "title": "Fizz Buzz",
     "title_slug": "fizz-buzz",
