@@ -73,6 +73,20 @@
     ]
   },
   {
+    "id": 28,
+    "title": "Find the Index of the First Occurrence in a String",
+    "title_slug": "find-the-index-of-the-first-occurrence-in-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Boyer–Moore String-Search Algorithm",
+      "Knuth–Morris–Pratt Algorithm",
+      "String",
+      "String Matching",
+      "Two Pointers",
+      "Z Algorithm"
+    ]
+  },
+  {
     "id": 31,
     "title": "Next Permutation",
     "title_slug": "next-permutation",
