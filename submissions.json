@@ -542,6 +542,18 @@
     ]
   },
   {
+    "id": 389,
+    "title": "Find the Difference",
+    "title_slug": "find-the-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 392,
     "title": "Is Subsequence",
     "title_slug": "is-subsequence",
