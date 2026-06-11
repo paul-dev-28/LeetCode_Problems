@@ -656,6 +656,15 @@
     ]
   },
   {
+    "id": 482,
+    "title": "License Key Formatting",
+    "title_slug": "license-key-formatting",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 485,
     "title": "Max Consecutive Ones",
     "title_slug": "max-consecutive-ones",
