@@ -519,6 +519,17 @@
     ]
   },
   {
+    "id": 383,
+    "title": "Ransom Note",
+    "title_slug": "ransom-note",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 392,
     "title": "Is Subsequence",
     "title_slug": "is-subsequence",
