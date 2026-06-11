@@ -291,6 +291,16 @@
     ]
   },
   {
+    "id": 171,
+    "title": "Excel Sheet Column Number",
+    "title_slug": "excel-sheet-column-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 172,
     "title": "Factorial Trailing Zeroes",
     "title_slug": "factorial-trailing-zeroes",
