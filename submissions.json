@@ -2070,5 +2070,16 @@
     "skills": [
       "Math"
     ]
+  },
+  {
+    "id": 3954,
+    "title": "Sum of Compatible Numbers in Range I",
+    "title_slug": "sum-of-compatible-numbers-in-range-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Dynamic Programming",
+      "Enumeration"
+    ]
   }
 ]
