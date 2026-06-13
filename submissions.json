@@ -2082,6 +2082,16 @@
     ]
   },
   {
+    "id": 3941,
+    "title": "Password Strength",
+    "title_slug": "password-strength",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3945,
     "title": "Digit Frequency Score",
     "title_slug": "digit-frequency-score",

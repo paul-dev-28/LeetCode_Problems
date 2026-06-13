@@ -200,6 +200,7 @@
 | 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element) | Easy | `Array` `Counting` `Hash Table` |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | Easy | `Math` |
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array) | Easy | `Array` `Two Pointers` |
+| 3941 | [Password Strength](https://leetcode.com/problems/password-strength) | Medium | `Hash Table` `String` |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score) | Easy | `Hash Table` `Math` |
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair) | Easy | `Bit Manipulation` |
 | 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i) | Easy | `Bit Manipulation` `Dynamic Programming` `Enumeration` |
