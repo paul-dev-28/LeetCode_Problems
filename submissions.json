@@ -2072,6 +2072,16 @@
     ]
   },
   {
+    "id": 3940,
+    "title": "Limit Occurrences in Sorted Array",
+    "title_slug": "limit-occurrences-in-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3945,
     "title": "Digit Frequency Score",
     "title_slug": "digit-frequency-score",
