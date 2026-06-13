@@ -2072,6 +2072,16 @@
     ]
   },
   {
+    "id": 3936,
+    "title": "Minimum Swaps to Move Zeros to End",
+    "title_slug": "minimum-swaps-to-move-zeros-to-end",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3940,
     "title": "Limit Occurrences in Sorted Array",
     "title_slug": "limit-occurrences-in-sorted-array",
