@@ -2072,6 +2072,15 @@
     ]
   },
   {
+    "id": 3950,
+    "title": "Exactly One Consecutive Set Bits Pair",
+    "title_slug": "exactly-one-consecutive-set-bits-pair",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 3954,
     "title": "Sum of Compatible Numbers in Range I",
     "title_slug": "sum-of-compatible-numbers-in-range-i",
