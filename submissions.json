@@ -2072,6 +2072,16 @@
     ]
   },
   {
+    "id": 3945,
+    "title": "Digit Frequency Score",
+    "title_slug": "digit-frequency-score",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 3950,
     "title": "Exactly One Consecutive Set Bits Pair",
     "title_slug": "exactly-one-consecutive-set-bits-pair",
