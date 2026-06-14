@@ -206,3 +206,4 @@
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair) | Easy | `Bit Manipulation` |
 | 3954 | [Sum of Compatible Numbers in Range I](https://leetcode.com/problems/sum-of-compatible-numbers-in-range-i) | Easy | `Bit Manipulation` `Dynamic Programming` `Enumeration` |
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | Easy | `Math` `Simulation` |
+| 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings) | Medium | `Array` `Greedy` `Matrix` `Sorting` |

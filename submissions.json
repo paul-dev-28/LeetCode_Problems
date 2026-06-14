@@ -2140,5 +2140,17 @@
       "Math",
       "Simulation"
     ]
+  },
+  {
+    "id": 3961,
+    "title": "Maximize Sum of Device Ratings",
+    "title_slug": "maximize-sum-of-device-ratings",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Matrix",
+      "Sorting"
+    ]
   }
 ]
