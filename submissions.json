@@ -352,6 +352,16 @@
     ]
   },
   {
+    "id": 191,
+    "title": "Number of 1 Bits",
+    "title_slug": "number-of-1-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Divide and Conquer"
+    ]
+  },
+  {
     "id": 202,
     "title": "Happy Number",
     "title_slug": "happy-number",

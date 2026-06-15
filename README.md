@@ -39,6 +39,7 @@
 | 0172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes) | Medium | `Math` |
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
+| 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Math` `Two Pointers` |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
