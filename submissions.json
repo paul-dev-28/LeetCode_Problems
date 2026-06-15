@@ -509,6 +509,16 @@
     ]
   },
   {
+    "id": 338,
+    "title": "Counting Bits",
+    "title_slug": "counting-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 342,
     "title": "Power of Four",
     "title_slug": "power-of-four",
