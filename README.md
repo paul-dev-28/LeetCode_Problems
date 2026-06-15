@@ -79,6 +79,7 @@
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
+| 0520 | [Detect Capital](https://leetcode.com/problems/detect-capital) | Easy | `String` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0605 | [Can Place Flowers](https://leetcode.com/problems/can-place-flowers) | Easy | `Array` `Greedy` |

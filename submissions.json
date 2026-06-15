@@ -783,6 +783,15 @@
     ]
   },
   {
+    "id": 520,
+    "title": "Detect Capital",
+    "title_slug": "detect-capital",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
