@@ -10,6 +10,15 @@
     ]
   },
   {
+    "id": 7,
+    "title": "Reverse Integer",
+    "title_slug": "reverse-integer",
+    "difficulty": "Medium",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 9,
     "title": "Palindrome Number",
     "title_slug": "palindrome-number",
