@@ -1962,6 +1962,16 @@
     ]
   },
   {
+    "id": 3612,
+    "title": "Process String with Special Operations I",
+    "title_slug": "process-string-with-special-operations-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3634,
     "title": "Minimum Removals to Balance Array",
     "title_slug": "minimum-removals-to-balance-array",
