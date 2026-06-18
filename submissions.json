@@ -2188,6 +2188,15 @@
     ]
   },
   {
+    "id": 3908,
+    "title": "Valid Digit Number",
+    "title_slug": "valid-digit-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3936,
     "title": "Minimum Swaps to Move Zeros to End",
     "title_slug": "minimum-swaps-to-move-zeros-to-end",
