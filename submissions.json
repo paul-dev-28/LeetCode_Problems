@@ -1046,6 +1046,18 @@
     ]
   },
   {
+    "id": 1004,
+    "title": "Max Consecutive Ones III",
+    "title_slug": "max-consecutive-ones-iii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1009,
     "title": "Complement of Base 10 Integer",
     "title_slug": "complement-of-base-10-integer",
