@@ -518,6 +518,17 @@
     ]
   },
   {
+    "id": 334,
+    "title": "Increasing Triplet Subsequence",
+    "title_slug": "increasing-triplet-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Longest Increasing Subsequence"
+    ]
+  },
+  {
     "id": 338,
     "title": "Counting Bits",
     "title_slug": "counting-bits",
