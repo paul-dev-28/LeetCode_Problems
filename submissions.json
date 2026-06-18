@@ -2197,6 +2197,15 @@
     ]
   },
   {
+    "id": 3909,
+    "title": "Compare Sums of Bitonic Parts",
+    "title_slug": "compare-sums-of-bitonic-parts",
+    "difficulty": "Medium",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3936,
     "title": "Minimum Swaps to Move Zeros to End",
     "title_slug": "minimum-swaps-to-move-zeros-to-end",

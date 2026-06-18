@@ -211,6 +211,7 @@
 | 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element) | Easy | `Array` `Counting` `Hash Table` |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | Easy | `Math` |
 | 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number) | Easy | `Math` |
+| 3909 | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts) | Medium | `Array` |
 | 3936 | [Minimum Swaps to Move Zeros to End](https://leetcode.com/problems/minimum-swaps-to-move-zeros-to-end) | Easy | `Array` `Two Pointers` |
 | 3940 | [Limit Occurrences in Sorted Array](https://leetcode.com/problems/limit-occurrences-in-sorted-array) | Easy | `Array` `Two Pointers` |
 | 3941 | [Password Strength](https://leetcode.com/problems/password-strength) | Medium | `Hash Table` `String` |
