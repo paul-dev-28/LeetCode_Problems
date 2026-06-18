@@ -912,6 +912,16 @@
     ]
   },
   {
+    "id": 724,
+    "title": "Find Pivot Index",
+    "title_slug": "find-pivot-index",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 744,
     "title": "Find Smallest Letter Greater Than Target",
     "title_slug": "find-smallest-letter-greater-than-target",

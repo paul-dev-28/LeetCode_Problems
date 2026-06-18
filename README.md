@@ -92,6 +92,7 @@
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | `String` `Two Pointers` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
+| 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
 | 0747 | [Largest Number At Least Twice of Others](https://leetcode.com/problems/largest-number-at-least-twice-of-others) | Easy | `Array` `Sorting` |
 | 0761 | [Special Binary String](https://leetcode.com/problems/special-binary-string) | Hard | `Divide and Conquer` `Sorting` `String` |
