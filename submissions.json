@@ -428,6 +428,19 @@
     ]
   },
   {
+    "id": 229,
+    "title": "Majority Element II",
+    "title_slug": "majority-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Boyer–Moore Majority Vote Algorithm",
+      "Counting",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 231,
     "title": "Power of Two",
     "title_slug": "power-of-two",
