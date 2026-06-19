@@ -19,6 +19,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `Boyer–Moore String-Search Algorithm` `Knuth–Morris–Pratt Algorithm` `String` `String Matching` `Two Pointers` `Z Algorithm` |
 | 0031 | [Next Permutation](https://leetcode.com/problems/next-permutation) | Medium | `Array` `Two Pointers` |
+| 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | `Array` `Matrix` `Simulation` |
