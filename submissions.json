@@ -72,6 +72,17 @@
     ]
   },
   {
+    "id": 18,
+    "title": "4Sum",
+    "title_slug": "4sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 20,
     "title": "Valid Parentheses",
     "title_slug": "valid-parentheses",
