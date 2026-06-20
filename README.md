@@ -120,6 +120,7 @@
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | `Bit Manipulation` |
+| 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days) | Medium | `Array` `Binary Search` |
 | 1015 | [Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k) | Medium | `Hash Table` `Math` `Pigeonhole Principle` |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
