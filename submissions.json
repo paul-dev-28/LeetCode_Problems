@@ -2535,5 +2535,12 @@
       "Matrix",
       "Sorting"
     ]
+  },
+  {
+    "id": 3963,
+    "title": "Create Grid With Exactly One Path",
+    "title_slug": "create-grid-with-exactly-one-path",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]

@@ -244,3 +244,4 @@
 | 3959 | [Check Good Integer](https://leetcode.com/problems/check-good-integer) | Easy | `Math` `Simulation` |
 | 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray) | Medium | `Array` `Counting` `Hash Table` |
 | 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings) | Medium | `Array` `Greedy` `Matrix` `Sorting` |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path) | Easy |  |
