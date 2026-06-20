@@ -1824,6 +1824,17 @@
     ]
   },
   {
+    "id": 1901,
+    "title": "Find a Peak Element II",
+    "title_slug": "find-a-peak-element-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1903,
     "title": "Largest Odd Number in String",
     "title_slug": "largest-odd-number-in-string",
