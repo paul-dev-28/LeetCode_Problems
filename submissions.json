@@ -1531,6 +1531,16 @@
     ]
   },
   {
+    "id": 1539,
+    "title": "Kth Missing Positive Number",
+    "title_slug": "kth-missing-positive-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1545,
     "title": "Find Kth Bit in Nth Binary String",
     "title_slug": "find-kth-bit-in-nth-binary-string",

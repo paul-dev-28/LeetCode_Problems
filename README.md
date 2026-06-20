@@ -151,6 +151,7 @@
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 1523 | [Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range) | Easy | `Math` |
 | 1536 | [Minimum Swaps to Arrange a Binary Grid](https://leetcode.com/problems/minimum-swaps-to-arrange-a-binary-grid) | Medium | `Array` `Greedy` `Matrix` |
+| 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number) | Easy | `Array` `Binary Search` |
 | 1545 | [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string) | Medium | `Recursion` `Simulation` `String` |
 | 1582 | [Special Positions in a Binary Matrix](https://leetcode.com/problems/special-positions-in-a-binary-matrix) | Easy | `Array` `Matrix` |
 | 1594 | [Maximum Non Negative Product in a Matrix](https://leetcode.com/problems/maximum-non-negative-product-in-a-matrix) | Medium | `Array` `Dynamic Programming` `Matrix` |
