@@ -779,6 +779,19 @@
     ]
   },
   {
+    "id": 410,
+    "title": "Split Array Largest Sum",
+    "title_slug": "split-array-largest-sum",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Greedy",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 412,
     "title": "Fizz Buzz",
     "title_slug": "fizz-buzz",
