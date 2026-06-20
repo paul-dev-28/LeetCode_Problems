@@ -1299,6 +1299,16 @@
     ]
   },
   {
+    "id": 1283,
+    "title": "Find the Smallest Divisor Given a Threshold",
+    "title_slug": "find-the-smallest-divisor-given-a-threshold",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1295,
     "title": "Find Numbers with Even Number of Digits",
     "title_slug": "find-numbers-with-even-number-of-digits",
