@@ -380,6 +380,16 @@
     ]
   },
   {
+    "id": 162,
+    "title": "Find Peak Element",
+    "title_slug": "find-peak-element",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 168,
     "title": "Excel Sheet Column Title",
     "title_slug": "excel-sheet-column-title",
