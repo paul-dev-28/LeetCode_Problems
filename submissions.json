@@ -1458,6 +1458,16 @@
     ]
   },
   {
+    "id": 1482,
+    "title": "Minimum Number of Days to Make m Bouquets",
+    "title_slug": "minimum-number-of-days-to-make-m-bouquets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 1493,
     "title": "Longest Subarray of 1's After Deleting One Element",
     "title_slug": "longest-subarray-of-1s-after-deleting-one-element",
