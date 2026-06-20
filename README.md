@@ -111,6 +111,7 @@
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0799 | [Champagne Tower](https://leetcode.com/problems/champagne-tower) | Medium | `Dynamic Programming` |
 | 0868 | [Binary Gap](https://leetcode.com/problems/binary-gap) | Easy | `Bit Manipulation` |
+| 0875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas) | Medium | `Array` `Binary Search` |
 | 0896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array) | Easy | `Array` |
 | 0921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid) | Medium | `Bracket Sequences` `Greedy` `Stack` `String` |
 | 0944 | [Delete Columns to Make Sorted](https://leetcode.com/problems/delete-columns-to-make-sorted) | Easy | `Array` `Longest Increasing Subsequence` `String` |

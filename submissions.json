@@ -1108,6 +1108,16 @@
     ]
   },
   {
+    "id": 875,
+    "title": "Koko Eating Bananas",
+    "title_slug": "koko-eating-bananas",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 896,
     "title": "Monotonic Array",
     "title_slug": "monotonic-array",
