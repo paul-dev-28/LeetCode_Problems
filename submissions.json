@@ -908,6 +908,16 @@
     ]
   },
   {
+    "id": 540,
+    "title": "Single Element in a Sorted Array",
+    "title_slug": "single-element-in-a-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 557,
     "title": "Reverse Words in a String III",
     "title_slug": "reverse-words-in-a-string-iii",
