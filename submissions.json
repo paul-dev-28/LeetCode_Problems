@@ -567,6 +567,18 @@
     ]
   },
   {
+    "id": 240,
+    "title": "Search a 2D Matrix II",
+    "title_slug": "search-a-2d-matrix-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Matrix"
+    ]
+  },
+  {
     "id": 242,
     "title": "Valid Anagram",
     "title_slug": "valid-anagram",
