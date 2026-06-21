@@ -2620,5 +2620,16 @@
     "title_slug": "create-grid-with-exactly-one-path",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 3968,
+    "title": "Maximum Manhattan Distance After All Moves",
+    "title_slug": "maximum-manhattan-distance-after-all-moves",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Math",
+      "String"
+    ]
   }
 ]

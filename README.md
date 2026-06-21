@@ -252,3 +252,4 @@
 | 3960 | [Frequency Balance Subarray](https://leetcode.com/problems/frequency-balance-subarray) | Medium | `Array` `Counting` `Hash Table` |
 | 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings) | Medium | `Array` `Greedy` `Matrix` `Sorting` |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path) | Easy |  |
+| 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves) | Medium | `Counting` `Math` `String` |
