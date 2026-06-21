@@ -254,4 +254,5 @@
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path) | Easy |  |
 | 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves) | Medium | `Counting` `Math` `String` |
 | 3969 | [Valid Subarrays With Matching Sum Digits I](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i) | Medium | `Array` `Enumeration` `Hash Table` `Prefix Sum` `Sliding Window` |
+| 3970 | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters) | Medium | `Graph Theory` `Heap (Priority Queue)` `Shortest Path` `String` |
 | 3971 | [Maximum Total Value](https://leetcode.com/problems/maximum-total-value) | Hard | `Array` `Binary Search` `Greedy` `Math` |
