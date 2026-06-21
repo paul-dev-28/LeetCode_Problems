@@ -2631,5 +2631,18 @@
       "Math",
       "String"
     ]
+  },
+  {
+    "id": 3969,
+    "title": "Valid Subarrays With Matching Sum Digits I",
+    "title_slug": "valid-subarrays-with-matching-sum-digits-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
   }
 ]

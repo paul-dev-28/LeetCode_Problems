@@ -253,3 +253,4 @@
 | 3961 | [Maximize Sum of Device Ratings](https://leetcode.com/problems/maximize-sum-of-device-ratings) | Medium | `Array` `Greedy` `Matrix` `Sorting` |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path) | Easy |  |
 | 3968 | [Maximum Manhattan Distance After All Moves](https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves) | Medium | `Counting` `Math` `String` |
+| 3969 | [Valid Subarrays With Matching Sum Digits I](https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i) | Medium | `Array` `Enumeration` `Hash Table` `Prefix Sum` `Sliding Window` |
