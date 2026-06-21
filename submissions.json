@@ -2644,5 +2644,17 @@
       "Prefix Sum",
       "Sliding Window"
     ]
+  },
+  {
+    "id": 3971,
+    "title": "Maximum Total Value",
+    "title_slug": "maximum-total-value",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Math"
+    ]
   }
 ]
