@@ -1174,6 +1174,16 @@
     ]
   },
   {
+    "id": 876,
+    "title": "Middle of the Linked List",
+    "title_slug": "middle-of-the-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 896,
     "title": "Monotonic Array",
     "title_slug": "monotonic-array",
