@@ -1379,6 +1379,17 @@
     ]
   },
   {
+    "id": 1189,
+    "title": "Maximum Number of Balloons",
+    "title_slug": "maximum-number-of-balloons",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1200,
     "title": "Minimum Absolute Difference",
     "title_slug": "minimum-absolute-difference",
