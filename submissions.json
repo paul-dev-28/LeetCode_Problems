@@ -2439,6 +2439,16 @@
     ]
   },
   {
+    "id": 3699,
+    "title": "Number of ZigZag Arrays I",
+    "title_slug": "number-of-zigzag-arrays-i",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3713,
     "title": "Longest Balanced Substring I",
     "title_slug": "longest-balanced-substring-i",
