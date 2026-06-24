@@ -591,6 +591,18 @@
     ]
   },
   {
+    "id": 234,
+    "title": "Palindrome Linked List",
+    "title_slug": "palindrome-linked-list",
+    "difficulty": "Easy",
+    "skills": [
+      "Linked List",
+      "Recursion",
+      "Stack",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 237,
     "title": "Delete Node in a Linked List",
     "title_slug": "delete-node-in-a-linked-list",
