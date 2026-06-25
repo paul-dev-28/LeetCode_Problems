@@ -985,6 +985,18 @@
     ]
   },
   {
+    "id": 402,
+    "title": "Remove K Digits",
+    "title_slug": "remove-k-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Monotonic Stack",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 409,
     "title": "Longest Palindrome",
     "title_slug": "longest-palindrome",

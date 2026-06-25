@@ -97,6 +97,7 @@
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | Easy | `Backtracking` `Bit Manipulation` |
+| 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
 | 0410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum) | Hard | `Array` `Binary Search` `Dynamic Programming` `Greedy` `Prefix Sum` |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
