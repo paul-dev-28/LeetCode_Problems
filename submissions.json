@@ -1390,6 +1390,18 @@
     ]
   },
   {
+    "id": 907,
+    "title": "Sum of Subarray Minimums",
+    "title_slug": "sum-of-subarray-minimums",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 921,
     "title": "Minimum Add to Make Parentheses Valid",
     "title_slug": "minimum-add-to-make-parentheses-valid",
