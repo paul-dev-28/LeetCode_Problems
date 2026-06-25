@@ -108,6 +108,7 @@
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | `String` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
+| 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` `String` |
 | 0506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks) | Easy | `Array` `Heap (Priority Queue)` `Sorting` |
 | 0507 | [Perfect Number](https://leetcode.com/problems/perfect-number) | Easy | `Math` |
