@@ -741,6 +741,20 @@
     ]
   },
   {
+    "id": 239,
+    "title": "Sliding Window Maximum",
+    "title_slug": "sliding-window-maximum",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)",
+      "Monotonic Queue",
+      "Queue",
+      "Range Minimum/Maximum Query",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 240,
     "title": "Search a 2D Matrix II",
     "title_slug": "search-a-2d-matrix-ii",
