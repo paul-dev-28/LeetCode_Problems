@@ -2140,6 +2140,15 @@
     ]
   },
   {
+    "id": 2220,
+    "title": "Minimum Bit Flips to Convert Number",
+    "title_slug": "minimum-bit-flips-to-convert-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 2235,
     "title": "Add Two Integers",
     "title_slug": "add-two-integers",
