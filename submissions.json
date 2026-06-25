@@ -1291,6 +1291,17 @@
     ]
   },
   {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "title_slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 744,
     "title": "Find Smallest Letter Greater Than Target",
     "title_slug": "find-smallest-letter-greater-than-target",
