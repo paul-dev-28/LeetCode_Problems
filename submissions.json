@@ -362,6 +362,17 @@
     ]
   },
   {
+    "id": 78,
+    "title": "Subsets",
+    "title_slug": "subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 81,
     "title": "Search in Rotated Sorted Array II",
     "title_slug": "search-in-rotated-sorted-array-ii",
