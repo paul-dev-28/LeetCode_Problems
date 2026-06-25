@@ -2562,6 +2562,21 @@
     ]
   },
   {
+    "id": 3737,
+    "title": "Count Subarrays With Majority Element I",
+    "title_slug": "count-subarrays-with-majority-element-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Divide and Conquer",
+      "Hash Table",
+      "Merge Sort",
+      "Prefix Sum",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 3783,
     "title": "Mirror Distance of an Integer",
     "title_slug": "mirror-distance-of-an-integer",
