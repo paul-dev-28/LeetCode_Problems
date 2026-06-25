@@ -170,6 +170,16 @@
     ]
   },
   {
+    "id": 29,
+    "title": "Divide Two Integers",
+    "title_slug": "divide-two-integers",
+    "difficulty": "Medium",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 31,
     "title": "Next Permutation",
     "title_slug": "next-permutation",
