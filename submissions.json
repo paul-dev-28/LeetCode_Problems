@@ -511,6 +511,16 @@
     ]
   },
   {
+    "id": 155,
+    "title": "Min Stack",
+    "title_slug": "min-stack",
+    "difficulty": "Medium",
+    "skills": [
+      "Design",
+      "Stack"
+    ]
+  },
+  {
     "id": 160,
     "title": "Intersection of Two Linked Lists",
     "title_slug": "intersection-of-two-linked-lists",
