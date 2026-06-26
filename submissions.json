@@ -1435,6 +1435,16 @@
     ]
   },
   {
+    "id": 860,
+    "title": "Lemonade Change",
+    "title_slug": "lemonade-change",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 868,
     "title": "Binary Gap",
     "title_slug": "binary-gap",
