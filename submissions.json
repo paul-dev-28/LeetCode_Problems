@@ -1315,6 +1315,19 @@
     ]
   },
   {
+    "id": 678,
+    "title": "Valid Parenthesis String",
+    "title_slug": "valid-parenthesis-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Bracket Sequences",
+      "Dynamic Programming",
+      "Greedy",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 693,
     "title": "Binary Number with Alternating Bits",
     "title_slug": "binary-number-with-alternating-bits",
