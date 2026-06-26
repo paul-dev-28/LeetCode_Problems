@@ -1797,6 +1797,17 @@
     ]
   },
   {
+    "id": 1423,
+    "title": "Maximum Points You Can Obtain from Cards",
+    "title_slug": "maximum-points-you-can-obtain-from-cards",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1431,
     "title": "Kids With the Greatest Number of Candies",
     "title_slug": "kids-with-the-greatest-number-of-candies",
