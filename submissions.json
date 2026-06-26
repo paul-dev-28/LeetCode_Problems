@@ -1467,6 +1467,17 @@
     ]
   },
   {
+    "id": 867,
+    "title": "Transpose Matrix",
+    "title_slug": "transpose-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 868,
     "title": "Binary Gap",
     "title_slug": "binary-gap",
