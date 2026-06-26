@@ -1078,6 +1078,17 @@
     ]
   },
   {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "title_slug": "longest-repeating-character-replacement",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 434,
     "title": "Number of Segments in a String",
     "title_slug": "number-of-segments-in-a-string",
