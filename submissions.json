@@ -287,6 +287,17 @@
     ]
   },
   {
+    "id": 55,
+    "title": "Jump Game",
+    "title_slug": "jump-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 56,
     "title": "Merge Intervals",
     "title_slug": "merge-intervals",
