@@ -396,6 +396,17 @@
     ]
   },
   {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "title_slug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 78,
     "title": "Subsets",
     "title_slug": "subsets",
