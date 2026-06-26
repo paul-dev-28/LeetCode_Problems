@@ -244,6 +244,17 @@
     ]
   },
   {
+    "id": 45,
+    "title": "Jump Game II",
+    "title_slug": "jump-game-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 48,
     "title": "Rotate Image",
     "title_slug": "rotate-image",
