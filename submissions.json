@@ -1366,6 +1366,15 @@
     ]
   },
   {
+    "id": 717,
+    "title": "1-bit and 2-bit Characters",
+    "title_slug": "1-bit-and-2-bit-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 724,
     "title": "Find Pivot Index",
     "title_slug": "find-pivot-index",

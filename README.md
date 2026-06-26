@@ -133,6 +133,7 @@
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | `String` `Two Pointers` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
+| 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | Easy | `Array` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | `Array` `Simulation` `Stack` |
 | 0744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target) | Easy | `Array` `Binary Search` |
