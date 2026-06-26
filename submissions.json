@@ -1528,6 +1528,18 @@
     ]
   },
   {
+    "id": 992,
+    "title": "Subarrays with K Different Integers",
+    "title_slug": "subarrays-with-k-different-integers",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1004,
     "title": "Max Consecutive Ones III",
     "title_slug": "max-consecutive-ones-iii",
