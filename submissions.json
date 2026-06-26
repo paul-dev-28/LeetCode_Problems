@@ -1473,6 +1473,18 @@
     ]
   },
   {
+    "id": 930,
+    "title": "Binary Subarrays With Sum",
+    "title_slug": "binary-subarrays-with-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 944,
     "title": "Delete Columns to Make Sorted",
     "title_slug": "delete-columns-to-make-sorted",
