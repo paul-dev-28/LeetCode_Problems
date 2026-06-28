@@ -3226,5 +3226,15 @@
       "Array",
       "Sorting"
     ]
+  },
+  {
+    "id": 3976,
+    "title": "Maximum Subarray Sum After Multiplier",
+    "title_slug": "maximum-subarray-sum-after-multiplier",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
   }
 ]

@@ -306,3 +306,4 @@
 | 3971 | [Maximum Total Value](https://leetcode.com/problems/maximum-total-value) | Hard | `Array` `Binary Search` `Greedy` `Math` |
 | 3974 | [Maximum Total Sum of K Selected Elements](https://leetcode.com/problems/maximum-total-sum-of-k-selected-elements) | Medium | `Array` `Greedy` `Sorting` |
 | 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals) | Medium | `Array` `Sorting` |
+| 3976 | [Maximum Subarray Sum After Multiplier](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier) | Medium | `Array` `Dynamic Programming` |
