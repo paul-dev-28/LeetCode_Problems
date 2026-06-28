@@ -3216,5 +3216,15 @@
       "Greedy",
       "Sorting"
     ]
+  },
+  {
+    "id": 3975,
+    "title": "Filter Occupied Intervals",
+    "title_slug": "filter-occupied-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
   }
 ]
