@@ -3236,5 +3236,18 @@
       "Array",
       "Dynamic Programming"
     ]
+  },
+  {
+    "id": 3977,
+    "title": "Minimum Time to Reach Target With Limited Power",
+    "title_slug": "minimum-time-to-reach-target-with-limited-power",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path"
+    ]
   }
 ]
