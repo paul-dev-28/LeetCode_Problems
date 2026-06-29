@@ -2340,6 +2340,16 @@
     ]
   },
   {
+    "id": 1967,
+    "title": "Number of Strings That Appear as Substrings in Word",
+    "title_slug": "number-of-strings-that-appear-as-substrings-in-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "String"
+    ]
+  },
+  {
     "id": 1980,
     "title": "Find Unique Binary String",
     "title_slug": "find-unique-binary-string",
