@@ -570,6 +570,18 @@
     ]
   },
   {
+    "id": 145,
+    "title": "Binary Tree Postorder Traversal",
+    "title_slug": "binary-tree-postorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 148,
     "title": "Sort List",
     "title_slug": "sort-list",
