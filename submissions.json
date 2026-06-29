@@ -546,6 +546,18 @@
     ]
   },
   {
+    "id": 144,
+    "title": "Binary Tree Preorder Traversal",
+    "title_slug": "binary-tree-preorder-traversal",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 148,
     "title": "Sort List",
     "title_slug": "sort-list",
