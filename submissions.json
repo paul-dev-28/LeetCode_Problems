@@ -461,6 +461,17 @@
     ]
   },
   {
+    "id": 102,
+    "title": "Binary Tree Level Order Traversal",
+    "title_slug": "binary-tree-level-order-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 118,
     "title": "Pascal's Triangle",
     "title_slug": "pascals-triangle",
