@@ -2224,6 +2224,20 @@
     ]
   },
   {
+    "id": 1838,
+    "title": "Frequency of the Most Frequent Element",
+    "title_slug": "frequency-of-the-most-frequent-element",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Prefix Sum",
+      "Sliding Window",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
