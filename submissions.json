@@ -537,6 +537,19 @@
     ]
   },
   {
+    "id": 124,
+    "title": "Binary Tree Maximum Path Sum",
+    "title_slug": "binary-tree-maximum-path-sum",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Tree",
+      "DP on Trees",
+      "Depth-First Search",
+      "Dynamic Programming",
+      "Tree"
+    ]
+  },
+  {
     "id": 125,
     "title": "Valid Palindrome",
     "title_slug": "valid-palindrome",
