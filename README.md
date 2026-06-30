@@ -190,6 +190,7 @@
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | Medium | `Math` |
 | 1351 | [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix) | Easy | `Array` `Binary Search` `Matrix` |
 | 1356 | [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits) | Easy | `Array` `Bit Manipulation` `Counting` `Sorting` |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters) | Medium | `Hash Table` `Sliding Window` `String` |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Divide and Conquer` `Greedy` `Tree` |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium | `Bit Manipulation` `Simulation` `String` |
