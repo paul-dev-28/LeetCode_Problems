@@ -1725,6 +1725,20 @@
     ]
   },
   {
+    "id": 987,
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "title_slug": "vertical-order-traversal-of-a-binary-tree",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Sorting",
+      "Tree"
+    ]
+  },
+  {
     "id": 989,
     "title": "Add to Array-Form of Integer",
     "title_slug": "add-to-array-form-of-integer",
