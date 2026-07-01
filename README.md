@@ -85,6 +85,7 @@
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
+| 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | Medium | `Binary Search` `Binary Tree` `Bit Manipulation` `Tree` |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Hash Table` `Sorting` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
