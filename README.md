@@ -257,6 +257,7 @@
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Medium | `Array` `Greedy` `Prefix Sum` `Sorting` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | `Sorting` `String` |
+| 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | `Array` `Binary Search` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` `Union-Find` |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | `Math` |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 3005 | [Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency) | Easy | `Array` `Counting` `Hash Table` |
