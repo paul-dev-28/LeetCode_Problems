@@ -56,6 +56,7 @@
 | 0103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal) | Medium | `Binary Tree` `Breadth-First Search` `Tree` |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0105 | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) | Medium | `Array` `Binary Tree` `Divide and Conquer` `Hash Table` `Tree` |
+| 0106 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal) | Medium | `Array` `Binary Tree` `Divide and Conquer` `Hash Table` `Tree` |
 | 0110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | `Array` `Dynamic Programming` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |

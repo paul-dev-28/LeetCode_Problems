@@ -544,6 +544,19 @@
     ]
   },
   {
+    "id": 106,
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "title_slug": "construct-binary-tree-from-inorder-and-postorder-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Tree",
+      "Divide and Conquer",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 110,
     "title": "Balanced Binary Tree",
     "title_slug": "balanced-binary-tree",
