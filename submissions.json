@@ -531,6 +531,19 @@
     ]
   },
   {
+    "id": 105,
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "title_slug": "construct-binary-tree-from-preorder-and-inorder-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Tree",
+      "Divide and Conquer",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 110,
     "title": "Balanced Binary Tree",
     "title_slug": "balanced-binary-tree",
