@@ -88,6 +88,7 @@
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Hash Table` `Sorting` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
+| 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | `Binary Lifting` `Binary Tree` `Depth-First Search` `Lowest Common Ancestor` `Tree` |
 | 0237 | [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list) | Medium | `Linked List` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0239 | [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum) | Hard | `Array` `Heap (Priority Queue)` `Monotonic Queue` `Queue` `Range Minimum/Maximum Query` `Sliding Window` |
