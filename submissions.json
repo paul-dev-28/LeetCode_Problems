@@ -1483,6 +1483,18 @@
     ]
   },
   {
+    "id": 662,
+    "title": "Maximum Width of Binary Tree",
+    "title_slug": "maximum-width-of-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 665,
     "title": "Non-decreasing Array",
     "title_slug": "non-decreasing-array",
