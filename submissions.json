@@ -2942,6 +2942,20 @@
     ]
   },
   {
+    "id": 3286,
+    "title": "Find a Safe Walk Through a Grid",
+    "title_slug": "find-a-safe-walk-through-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Shortest Path"
+    ]
+  },
+  {
     "id": 3296,
     "title": "Minimum Number of Seconds to Make Mountain Height Zero",
     "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
