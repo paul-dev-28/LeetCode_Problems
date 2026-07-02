@@ -811,6 +811,20 @@
     ]
   },
   {
+    "id": 173,
+    "title": "Binary Search Tree Iterator",
+    "title_slug": "binary-search-tree-iterator",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Design",
+      "Iterator",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 189,
     "title": "Rotate Array",
     "title_slug": "rotate-array",
