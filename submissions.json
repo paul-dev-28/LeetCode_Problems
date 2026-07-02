@@ -924,6 +924,18 @@
     ]
   },
   {
+    "id": 230,
+    "title": "Kth Smallest Element in a BST",
+    "title_slug": "kth-smallest-element-in-a-bst",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 231,
     "title": "Power of Two",
     "title_slug": "power-of-two",

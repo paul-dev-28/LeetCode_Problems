@@ -90,6 +90,7 @@
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | Medium | `Binary Search` `Binary Tree` `Bit Manipulation` `Tree` |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Hash Table` `Sorting` |
+| 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0236 | [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree) | Medium | `Binary Lifting` `Binary Tree` `Depth-First Search` `Lowest Common Ancestor` `Tree` |
