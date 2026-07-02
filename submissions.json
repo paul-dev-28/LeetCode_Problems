@@ -1061,6 +1061,20 @@
     ]
   },
   {
+    "id": 297,
+    "title": "Serialize and Deserialize Binary Tree",
+    "title_slug": "serialize-and-deserialize-binary-tree",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Design",
+      "String",
+      "Tree"
+    ]
+  },
+  {
     "id": 326,
     "title": "Power of Three",
     "title_slug": "power-of-three",
