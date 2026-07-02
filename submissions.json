@@ -1359,6 +1359,17 @@
     ]
   },
   {
+    "id": 450,
+    "title": "Delete Node in a BST",
+    "title_slug": "delete-node-in-a-bst",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Tree"
+    ]
+  },
+  {
     "id": 455,
     "title": "Assign Cookies",
     "title_slug": "assign-cookies",
