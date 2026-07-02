@@ -568,6 +568,19 @@
     ]
   },
   {
+    "id": 114,
+    "title": "Flatten Binary Tree to Linked List",
+    "title_slug": "flatten-binary-tree-to-linked-list",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Linked List",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 118,
     "title": "Pascal's Triangle",
     "title_slug": "pascals-triangle",
