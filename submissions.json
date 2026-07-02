@@ -1971,6 +1971,20 @@
     ]
   },
   {
+    "id": 1008,
+    "title": "Construct Binary Search Tree from Preorder Traversal",
+    "title_slug": "construct-binary-search-tree-from-preorder-traversal",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search Tree",
+      "Binary Tree",
+      "Monotonic Stack",
+      "Stack",
+      "Tree"
+    ]
+  },
+  {
     "id": 1009,
     "title": "Complement of Base 10 Integer",
     "title_slug": "complement-of-base-10-integer",
