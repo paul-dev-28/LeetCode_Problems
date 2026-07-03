@@ -3247,6 +3247,21 @@
     ]
   },
   {
+    "id": 3620,
+    "title": "Network Recovery Pathways",
+    "title_slug": "network-recovery-pathways",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Graph Theory",
+      "Heap (Priority Queue)",
+      "Shortest Path",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 3634,
     "title": "Minimum Removals to Balance Array",
     "title_slug": "minimum-removals-to-balance-array",
