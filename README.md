@@ -191,6 +191,7 @@
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `Tree` |
 | 0989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer) | Easy | `Array` `Math` |
 | 0992 | [Subarrays with K Different Integers](https://leetcode.com/problems/subarrays-with-k-different-integers) | Hard | `Array` `Counting` `Hash Table` `Sliding Window` |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1004 | [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 1008 | [Construct Binary Search Tree from Preorder Traversal](https://leetcode.com/problems/construct-binary-search-tree-from-preorder-traversal) | Medium | `Array` `Binary Search Tree` `Binary Tree` `Monotonic Stack` `Stack` `Tree` |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer) | Easy | `Bit Manipulation` |
