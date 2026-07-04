@@ -348,3 +348,4 @@
 | 3975 | [Filter Occupied Intervals](https://leetcode.com/problems/filter-occupied-intervals) | Medium | `Array` `Sorting` |
 | 3976 | [Maximum Subarray Sum After Multiplier](https://leetcode.com/problems/maximum-subarray-sum-after-multiplier) | Medium | `Array` `Dynamic Programming` |
 | 3977 | [Minimum Time to Reach Target With Limited Power](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power) | Hard | `Array` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
+| 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | Easy | `Array` `Counting` |
