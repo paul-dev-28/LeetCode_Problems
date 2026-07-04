@@ -350,3 +350,4 @@
 | 3977 | [Minimum Time to Reach Target With Limited Power](https://leetcode.com/problems/minimum-time-to-reach-target-with-limited-power) | Hard | `Array` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` |
 | 3978 | [Unique Middle Element](https://leetcode.com/problems/unique-middle-element) | Easy | `Array` `Counting` |
 | 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum) | Medium | `Array` `Enumeration` |
+| 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings) | Hard | `Dynamic Programming` `Prefix Sum` `String` |

@@ -3770,5 +3770,16 @@
       "Array",
       "Enumeration"
     ]
+  },
+  {
+    "id": 3981,
+    "title": "Count Distinct Ways to Form Target from Two Strings",
+    "title_slug": "count-distinct-ways-to-form-target-from-two-strings",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Prefix Sum",
+      "String"
+    ]
   }
 ]
