@@ -2233,6 +2233,17 @@
     ]
   },
   {
+    "id": 1301,
+    "title": "Number of Paths with Max Score",
+    "title_slug": "number-of-paths-with-max-score",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1304,
     "title": "Find N Unique Integers Sum up to Zero",
     "title_slug": "find-n-unique-integers-sum-up-to-zero",
