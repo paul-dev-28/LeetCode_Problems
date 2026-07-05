@@ -3848,5 +3848,18 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 3984,
+    "title": "Divisible Game",
+    "title_slug": "divisible-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Enumeration",
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
