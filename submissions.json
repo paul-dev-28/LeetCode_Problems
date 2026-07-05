@@ -3838,5 +3838,15 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "id": 3983,
+    "title": "Subsequence After One Replacement",
+    "title_slug": "subsequence-after-one-replacement",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
