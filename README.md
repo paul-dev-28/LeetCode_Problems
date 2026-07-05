@@ -358,3 +358,4 @@
 | 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | Easy | `Array` `Math` |
 | 3983 | [Subsequence After One Replacement](https://leetcode.com/problems/subsequence-after-one-replacement) | Medium | `String` `Two Pointers` |
 | 3984 | [Divisible Game](https://leetcode.com/problems/divisible-game) | Medium | `Array` `Dynamic Programming` `Enumeration` `Math` `Number Theory` |
+| 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum) | Hard | `Array` `Binary Search` `Hash Function` `Prefix Sum` |

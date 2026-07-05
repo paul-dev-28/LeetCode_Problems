@@ -3861,5 +3861,17 @@
       "Math",
       "Number Theory"
     ]
+  },
+  {
+    "id": 3985,
+    "title": "Palindromic Subarray Sum",
+    "title_slug": "palindromic-subarray-sum",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Hash Function",
+      "Prefix Sum"
+    ]
   }
 ]
