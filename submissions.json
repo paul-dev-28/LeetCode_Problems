@@ -3828,5 +3828,15 @@
       "Prefix Sum",
       "String"
     ]
+  },
+  {
+    "id": 3982,
+    "title": "Sum of Integers with Maximum Digit Range",
+    "title_slug": "sum-of-integers-with-maximum-digit-range",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
   }
 ]

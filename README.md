@@ -355,3 +355,4 @@
 | 3979 | [Maximum Valid Pair Sum](https://leetcode.com/problems/maximum-valid-pair-sum) | Medium | `Array` `Enumeration` |
 | 3980 | [Minimum Operations to Transform Binary String](https://leetcode.com/problems/minimum-operations-to-transform-binary-string) | Medium | `Dynamic Programming` `Greedy` `String` |
 | 3981 | [Count Distinct Ways to Form Target from Two Strings](https://leetcode.com/problems/count-distinct-ways-to-form-target-from-two-strings) | Hard | `Dynamic Programming` `Prefix Sum` `String` |
+| 3982 | [Sum of Integers with Maximum Digit Range](https://leetcode.com/problems/sum-of-integers-with-maximum-digit-range) | Easy | `Array` `Math` |
