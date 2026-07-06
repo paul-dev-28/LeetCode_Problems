@@ -2223,6 +2223,16 @@
     ]
   },
   {
+    "id": 1288,
+    "title": "Remove Covered Intervals",
+    "title_slug": "remove-covered-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1295,
     "title": "Find Numbers with Even Number of Digits",
     "title_slug": "find-numbers-with-even-number-of-digits",
