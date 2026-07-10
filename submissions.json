@@ -2808,6 +2808,15 @@
     ]
   },
   {
+    "id": 1909,
+    "title": "Remove One Element to Make the Array Strictly Increasing",
+    "title_slug": "remove-one-element-to-make-the-array-strictly-increasing",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 1929,
     "title": "Concatenation of Array",
     "title_slug": "concatenation-of-array",
