@@ -2883,6 +2883,15 @@
     ]
   },
   {
+    "id": 2016,
+    "title": "Maximum Difference Between Increasing Elements",
+    "title_slug": "maximum-difference-between-increasing-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 2095,
     "title": "Delete the Middle Node of a Linked List",
     "title_slug": "delete-the-middle-node-of-a-linked-list",
