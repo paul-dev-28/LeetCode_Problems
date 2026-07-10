@@ -1628,6 +1628,16 @@
     ]
   },
   {
+    "id": 575,
+    "title": "Distribute Candies",
+    "title_slug": "distribute-candies",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 605,
     "title": "Can Place Flowers",
     "title_slug": "can-place-flowers",
