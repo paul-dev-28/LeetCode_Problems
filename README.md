@@ -285,6 +285,7 @@
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Medium | `Array` `Greedy` `Prefix Sum` `Sorting` |
+| 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | `Sorting` `String` |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | `Array` `Binary Search` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` `Union-Find` |
