@@ -4031,6 +4031,18 @@
     ]
   },
   {
+    "id": 3988,
+    "title": "Create Grid With Exactly K Paths I",
+    "title_slug": "create-grid-with-exactly-k-paths-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Combinatorics",
+      "Math",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3989,
     "title": "Maximum Consistent Columns in a Grid",
     "title_slug": "maximum-consistent-columns-in-a-grid",
