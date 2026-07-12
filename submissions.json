@@ -4018,5 +4018,16 @@
       "Math",
       "String"
     ]
+  },
+  {
+    "id": 3987,
+    "title": "Minimum Total Cost to Process All Elements",
+    "title_slug": "minimum-total-cost-to-process-all-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Simulation"
+    ]
   }
 ]
