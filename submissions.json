@@ -4008,5 +4008,15 @@
       "Hash Function",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 3986,
+    "title": "Number of Elapsed Seconds Between Two Times",
+    "title_slug": "number-of-elapsed-seconds-between-two-times",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
   }
 ]
