@@ -4029,5 +4029,16 @@
       "Math",
       "Simulation"
     ]
+  },
+  {
+    "id": 3989,
+    "title": "Maximum Consistent Columns in a Grid",
+    "title_slug": "maximum-consistent-columns-in-a-grid",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
   }
 ]

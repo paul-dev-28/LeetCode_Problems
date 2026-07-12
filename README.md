@@ -373,3 +373,4 @@
 | 3985 | [Palindromic Subarray Sum](https://leetcode.com/problems/palindromic-subarray-sum) | Hard | `Array` `Binary Search` `Hash Function` `Prefix Sum` |
 | 3986 | [Number of Elapsed Seconds Between Two Times](https://leetcode.com/problems/number-of-elapsed-seconds-between-two-times) | Easy | `Math` `String` |
 | 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements) | Medium | `Array` `Math` `Simulation` |
+| 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid) | Hard | `Array` `Dynamic Programming` `Matrix` |
