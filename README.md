@@ -212,6 +212,7 @@
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | Medium | `Array` `Binary Search` |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | `Array` `Sorting` |
+| 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits) | Medium | `Enumeration` |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | `Array` `Math` |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score) | Hard | `Array` `Dynamic Programming` `Matrix` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |

@@ -2268,6 +2268,15 @@
     ]
   },
   {
+    "id": 1291,
+    "title": "Sequential Digits",
+    "title_slug": "sequential-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration"
+    ]
+  },
+  {
     "id": 1295,
     "title": "Find Numbers with Even Number of Digits",
     "title_slug": "find-numbers-with-even-number-of-digits",
