@@ -3288,6 +3288,20 @@
     ]
   },
   {
+    "id": 3336,
+    "title": "Find the Number of Subsequences With Equal GCD",
+    "title_slug": "find-the-number-of-subsequences-with-equal-gcd",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3379,
     "title": "Transformed Array",
     "title_slug": "transformed-array",
