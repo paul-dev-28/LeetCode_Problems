@@ -346,6 +346,7 @@
 | 3853 | [Merge Close Characters](https://leetcode.com/problems/merge-close-characters) | Medium | `Hash Table` `String` |
 | 3854 | [Minimum Operations to Make Array Parity Alternating](https://leetcode.com/problems/minimum-operations-to-make-array-parity-alternating) | Medium | `Array` `Greedy` |
 | 3866 | [First Unique Even Element](https://leetcode.com/problems/first-unique-even-element) | Easy | `Array` `Counting` `Hash Table` |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs) | Medium | `Array` `Math` `Number Theory` `Simulation` `Sorting` `Two Pointers` |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range) | Easy | `Math` |
 | 3908 | [Valid Digit Number](https://leetcode.com/problems/valid-digit-number) | Easy | `Math` |
 | 3909 | [Compare Sums of Bitonic Parts](https://leetcode.com/problems/compare-sums-of-bitonic-parts) | Medium | `Array` |
