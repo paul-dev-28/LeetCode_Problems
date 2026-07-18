@@ -2893,6 +2893,19 @@
     ]
   },
   {
+    "id": 1979,
+    "title": "Find Greatest Common Divisor of Array",
+    "title_slug": "find-greatest-common-divisor-of-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Euclidean Algorithm",
+      "Greatest Common Divisor",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 1980,
     "title": "Find Unique Binary String",
     "title_slug": "find-unique-binary-string",
