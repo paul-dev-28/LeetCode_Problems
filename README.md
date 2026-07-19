@@ -203,6 +203,7 @@
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Bubble Sort` `Counting Sort` `Sorting` |
+| 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | `Array` `Two Pointers` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons) | Easy | `Counting` `Hash Table` `String` |
