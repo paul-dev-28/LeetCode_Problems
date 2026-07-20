@@ -210,6 +210,7 @@
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
 | 1232 | [Check If It Is a Straight Line](https://leetcode.com/problems/check-if-it-is-a-straight-line) | Easy | `Array` `Geometry` `Math` |
 | 1248 | [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays) | Medium | `Array` `Hash Table` `Math` `Prefix Sum` `Sliding Window` |
+| 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid) | Easy | `Array` `Matrix` `Simulation` |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer) | Easy | `Math` |
 | 1283 | [Find the Smallest Divisor Given a Threshold](https://leetcode.com/problems/find-the-smallest-divisor-given-a-threshold) | Medium | `Array` `Binary Search` |
 | 1288 | [Remove Covered Intervals](https://leetcode.com/problems/remove-covered-intervals) | Medium | `Array` `Sorting` |

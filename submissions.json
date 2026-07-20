@@ -2251,6 +2251,17 @@
     ]
   },
   {
+    "id": 1260,
+    "title": "Shift 2D Grid",
+    "title_slug": "shift-2d-grid",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 1281,
     "title": "Subtract the Product and Sum of Digits of an Integer",
     "title_slug": "subtract-the-product-and-sum-of-digits-of-an-integer",
