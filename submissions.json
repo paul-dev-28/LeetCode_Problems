@@ -3377,6 +3377,16 @@
     ]
   },
   {
+    "id": 3499,
+    "title": "Maximize Active Section with Trade I",
+    "title_slug": "maximize-active-section-with-trade-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration",
+      "String"
+    ]
+  },
+  {
     "id": 3507,
     "title": "Minimum Pair Removal to Sort Array I",
     "title_slug": "minimum-pair-removal-to-sort-array-i",
