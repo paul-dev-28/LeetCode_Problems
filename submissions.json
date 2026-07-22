@@ -3387,6 +3387,18 @@
     ]
   },
   {
+    "id": 3501,
+    "title": "Maximize Active Section with Trade II",
+    "title_slug": "maximize-active-section-with-trade-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Segment Tree",
+      "String"
+    ]
+  },
+  {
     "id": 3507,
     "title": "Minimum Pair Removal to Sort Array I",
     "title_slug": "minimum-pair-removal-to-sort-array-i",

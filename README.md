@@ -314,6 +314,7 @@
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | Easy | `Array` `Simulation` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | Easy | `Array` `Math` `Prefix Sum` |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i) | Medium | `Enumeration` `String` |
+| 3501 | [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii) | Hard | `Array` `Binary Search` `Segment Tree` `String` |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i) | Easy | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | Easy | `Array` `Math` |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | `Math` |
