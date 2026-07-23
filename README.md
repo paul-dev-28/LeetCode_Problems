@@ -90,6 +90,7 @@
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Math` `Two Pointers` |
 | 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
+| 0207 | [Course Schedule](https://leetcode.com/problems/course-schedule) | Medium | `Breadth-First Search` `Depth-First Search` `Directed Acyclic Graph` `Graph Theory` `Topological Sort` |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
