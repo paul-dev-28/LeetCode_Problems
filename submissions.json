@@ -1888,6 +1888,20 @@
     ]
   },
   {
+    "id": 785,
+    "title": "Is Graph Bipartite?",
+    "title_slug": "is-graph-bipartite",
+    "difficulty": "Medium",
+    "skills": [
+      "Bipartite Graph",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Coloring",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 796,
     "title": "Rotate String",
     "title_slug": "rotate-string",
