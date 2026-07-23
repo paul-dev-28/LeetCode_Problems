@@ -3436,6 +3436,17 @@
     ]
   },
   {
+    "id": 3513,
+    "title": "Number of Unique XOR Triplets I",
+    "title_slug": "number-of-unique-xor-triplets-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",
