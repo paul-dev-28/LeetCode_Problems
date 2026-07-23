@@ -1921,6 +1921,20 @@
     ]
   },
   {
+    "id": 802,
+    "title": "Find Eventual Safe States",
+    "title_slug": "find-eventual-safe-states",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Kosaraju's Algorithm",
+      "Tarjan's SCC Algorithm",
+      "Topological Sort"
+    ]
+  },
+  {
     "id": 860,
     "title": "Lemonade Change",
     "title_slug": "lemonade-change",
