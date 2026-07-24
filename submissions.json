@@ -3513,6 +3513,18 @@
     ]
   },
   {
+    "id": 3514,
+    "title": "Number of Unique XOR Triplets II",
+    "title_slug": "number-of-unique-xor-triplets-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 3516,
     "title": "Find Closest Person",
     "title_slug": "find-closest-person",
