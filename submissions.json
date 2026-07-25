@@ -3563,6 +3563,16 @@
     ]
   },
   {
+    "id": 3536,
+    "title": "Maximum Product of Two Digits",
+    "title_slug": "maximum-product-of-two-digits",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3541,
     "title": "Find Most Frequent Vowel and Consonant",
     "title_slug": "find-most-frequent-vowel-and-consonant",
