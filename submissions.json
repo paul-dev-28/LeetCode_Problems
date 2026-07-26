@@ -3980,6 +3980,17 @@
     ]
   },
   {
+    "id": 3899,
+    "title": "Angles of a Triangle",
+    "title_slug": "angles-of-a-triangle",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Geometry",
+      "Math"
+    ]
+  },
+  {
     "id": 3908,
     "title": "Valid Digit Number",
     "title_slug": "valid-digit-number",
