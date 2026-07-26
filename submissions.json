@@ -1698,6 +1698,17 @@
     ]
   },
   {
+    "id": 628,
+    "title": "Maximum Product of Three Numbers",
+    "title_slug": "maximum-product-of-three-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Sorting"
+    ]
+  },
+  {
     "id": 643,
     "title": "Maximum Average Subarray I",
     "title_slug": "maximum-average-subarray-i",
