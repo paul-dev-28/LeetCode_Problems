@@ -3969,6 +3969,17 @@
     ]
   },
   {
+    "id": 3898,
+    "title": "Find the Degree of Each Vertex",
+    "title_slug": "find-the-degree-of-each-vertex",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Graph Theory",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3908,
     "title": "Valid Digit Number",
     "title_slug": "valid-digit-number",
