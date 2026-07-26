@@ -4321,6 +4321,16 @@
     ]
   },
   {
+    "id": 3993,
+    "title": "Maximum Value of an Alternating Sequence",
+    "title_slug": "maximum-value-of-an-alternating-sequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 3996,
     "title": "Even Number of Knight Moves",
     "title_slug": "even-number-of-knight-moves",
