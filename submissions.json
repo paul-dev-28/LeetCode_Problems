@@ -4320,6 +4320,17 @@
     ]
   },
   {
+    "id": 3997,
+    "title": "Count Dominant Nodes in a Binary Tree",
+    "title_slug": "count-dominant-nodes-in-a-binary-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 4000,
     "title": "Largest Integer With Given Digit Sum",
     "title_slug": "largest-integer-with-given-digit-sum",

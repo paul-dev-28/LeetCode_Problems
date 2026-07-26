@@ -397,4 +397,5 @@
 | 3988 | [Create Grid With Exactly K Paths I](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i) | Medium | `Array` `Combinatorics` `Math` `Matrix` |
 | 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid) | Hard | `Array` `Dynamic Programming` `Matrix` |
 | 3996 | [Even Number of Knight Moves](https://leetcode.com/problems/even-number-of-knight-moves) | Easy | `Array` `Math` |
+| 3997 | [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | Easy | `Greedy` `Math` |
