@@ -3863,6 +3863,17 @@
     ]
   },
   {
+    "id": 3770,
+    "title": "Largest Prime from Consecutive Prime Sum",
+    "title_slug": "largest-prime-from-consecutive-prime-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3783,
     "title": "Mirror Distance of an Integer",
     "title_slug": "mirror-distance-of-an-integer",
