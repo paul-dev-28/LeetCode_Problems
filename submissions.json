@@ -4310,6 +4310,17 @@
     ]
   },
   {
+    "id": 3992,
+    "title": "Rearrange String to Avoid Character Pair",
+    "title_slug": "rearrange-string-to-avoid-character-pair",
+    "difficulty": "Easy",
+    "skills": [
+      "Sorting",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3996,
     "title": "Even Number of Knight Moves",
     "title_slug": "even-number-of-knight-moves",
