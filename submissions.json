@@ -3872,6 +3872,16 @@
     ]
   },
   {
+    "id": 3790,
+    "title": "Smallest All-Ones Multiple",
+    "title_slug": "smallest-all-ones-multiple",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 3827,
     "title": "Count Monobit Integers",
     "title_slug": "count-monobit-integers",

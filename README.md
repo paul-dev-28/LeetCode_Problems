@@ -355,6 +355,7 @@
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | Easy | `Math` |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii) | Medium | `Math` `Prefix Sum` `String` |
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | Easy | `Math` |
+| 3790 | [Smallest All-Ones Multiple](https://leetcode.com/problems/smallest-all-ones-multiple) | Medium | `Hash Table` `Math` |
 | 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers) | Easy | `Bit Manipulation` `Enumeration` |
 | 3842 | [Toggle Light Bulbs](https://leetcode.com/problems/toggle-light-bulbs) | Easy | `Array` `Hash Table` `Simulation` `Sorting` |
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game) | Medium | `Array` `Simulation` |
