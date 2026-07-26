@@ -395,3 +395,4 @@
 | 3987 | [Minimum Total Cost to Process All Elements](https://leetcode.com/problems/minimum-total-cost-to-process-all-elements) | Medium | `Array` `Math` `Simulation` |
 | 3988 | [Create Grid With Exactly K Paths I](https://leetcode.com/problems/create-grid-with-exactly-k-paths-i) | Medium | `Array` `Combinatorics` `Math` `Matrix` |
 | 3989 | [Maximum Consistent Columns in a Grid](https://leetcode.com/problems/maximum-consistent-columns-in-a-grid) | Hard | `Array` `Dynamic Programming` `Matrix` |
+| 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | Easy | `Greedy` `Math` |
