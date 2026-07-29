@@ -668,6 +668,18 @@
     ]
   },
   {
+    "id": 127,
+    "title": "Word Ladder",
+    "title_slug": "word-ladder",
+    "difficulty": "Hard",
+    "skills": [
+      "Bidirectional Search",
+      "Breadth-First Search",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 130,
     "title": "Surrounded Regions",
     "title_slug": "surrounded-regions",
