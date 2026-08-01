@@ -4499,5 +4499,15 @@
       "Greedy",
       "Math"
     ]
+  },
+  {
+    "id": 4006,
+    "title": "Count Valid Prefixes",
+    "title_slug": "count-valid-prefixes",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "String"
+    ]
   }
 ]
