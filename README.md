@@ -146,6 +146,7 @@
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | `Bit Manipulation` |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | `String` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
+| 0486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` `Minimax` `Recursion` `Zero-Sum Game` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
 | 0503 | [Next Greater Element II](https://leetcode.com/problems/next-greater-element-ii) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0504 | [Base 7](https://leetcode.com/problems/base-7) | Easy | `Math` `String` |

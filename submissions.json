@@ -1559,6 +1559,21 @@
     ]
   },
   {
+    "id": 486,
+    "title": "Predict the Winner",
+    "title_slug": "predict-the-winner",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Recursion",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 496,
     "title": "Next Greater Element I",
     "title_slug": "next-greater-element-i",
