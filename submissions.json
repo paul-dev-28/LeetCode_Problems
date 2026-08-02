@@ -2071,6 +2071,20 @@
     ]
   },
   {
+    "id": 877,
+    "title": "Stone Game",
+    "title_slug": "stone-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 896,
     "title": "Monotonic Array",
     "title_slug": "monotonic-array",
