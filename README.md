@@ -415,3 +415,4 @@
 | 3997 | [Count Dominant Nodes in a Binary Tree](https://leetcode.com/problems/count-dominant-nodes-in-a-binary-tree) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | Easy | `Greedy` `Math` |
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes) | Easy | `Counting` `String` |
+| 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd) | Easy | `Array` `Enumeration` `Math` `Number Theory` |

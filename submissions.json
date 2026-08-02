@@ -4523,5 +4523,17 @@
       "Counting",
       "String"
     ]
+  },
+  {
+    "id": 4010,
+    "title": "Maximize Pair Strength Using GCD",
+    "title_slug": "maximize-pair-strength-using-gcd",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Math",
+      "Number Theory"
+    ]
   }
 ]
