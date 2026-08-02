@@ -4535,5 +4535,19 @@
       "Math",
       "Number Theory"
     ]
+  },
+  {
+    "id": 4011,
+    "title": "Count Subarrays With Even Odd Ratio I",
+    "title_slug": "count-subarrays-with-even-odd-ratio-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Divide and Conquer",
+      "Merge Sort",
+      "Prefix Sum",
+      "Segment Tree"
+    ]
   }
 ]

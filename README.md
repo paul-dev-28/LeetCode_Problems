@@ -416,3 +416,4 @@
 | 4000 | [Largest Integer With Given Digit Sum](https://leetcode.com/problems/largest-integer-with-given-digit-sum) | Easy | `Greedy` `Math` |
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes) | Easy | `Counting` `String` |
 | 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd) | Easy | `Array` `Enumeration` `Math` `Number Theory` |
+| 4011 | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i) | Medium | `Array` `Binary Indexed Tree` `Divide and Conquer` `Merge Sort` `Prefix Sum` `Segment Tree` |
