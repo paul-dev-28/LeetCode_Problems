@@ -328,6 +328,7 @@
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries) | Hard | `Array` `Binary Search` `Combinatorics` `Counting` `Euclidean Algorithm` `Greatest Common Divisor` `Hash Table` `Math` `Number Theory` `Prefix Sum` |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | Hard | `Array` `Dynamic Programming` `Euclidean Algorithm` `Greatest Common Divisor` `Math` `Number Theory` |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | Easy | `Enumeration` `Math` |
+| 3348 | [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii) | Hard | `Backtracking` `Greedy` `Math` `Number Theory` `String` |
 | 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | Easy | `Array` `Simulation` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | Easy | `Array` `Math` `Prefix Sum` |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i) | Medium | `Enumeration` `String` |

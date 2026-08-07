@@ -3566,6 +3566,19 @@
     ]
   },
   {
+    "id": 3348,
+    "title": "Smallest Divisible Digit Product II",
+    "title_slug": "smallest-divisible-digit-product-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Greedy",
+      "Math",
+      "Number Theory",
+      "String"
+    ]
+  },
+  {
     "id": 3379,
     "title": "Transformed Array",
     "title_slug": "transformed-array",
