@@ -324,6 +324,7 @@
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | Medium | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) | Medium | `Array` `Binary Search` `Greedy` `Heap (Priority Queue)` `Math` |
+| 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence) | Medium | `Dynamic Programming` `Greedy` `String` `Two Pointers` |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` |
 | 3312 | [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries) | Hard | `Array` `Binary Search` `Combinatorics` `Counting` `Euclidean Algorithm` `Greatest Common Divisor` `Hash Table` `Math` `Number Theory` `Prefix Sum` |
 | 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd) | Hard | `Array` `Dynamic Programming` `Euclidean Algorithm` `Greatest Common Divisor` `Math` `Number Theory` |
