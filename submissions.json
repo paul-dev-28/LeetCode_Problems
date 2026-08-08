@@ -1360,6 +1360,19 @@
     ]
   },
   {
+    "id": 378,
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "title_slug": "kth-smallest-element-in-a-sorted-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Heap (Priority Queue)",
+      "Matrix",
+      "Sorting"
+    ]
+  },
+  {
     "id": 383,
     "title": "Ransom Note",
     "title_slug": "ransom-note",
