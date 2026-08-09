@@ -3197,6 +3197,17 @@
     ]
   },
   {
+    "id": 2000,
+    "title": "Reverse Prefix of Word",
+    "title_slug": "reverse-prefix-of-word",
+    "difficulty": "Easy",
+    "skills": [
+      "Stack",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2016,
     "title": "Maximum Difference Between Increasing Elements",
     "title_slug": "maximum-difference-between-increasing-elements",
