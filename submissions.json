@@ -4689,5 +4689,16 @@
       "Sorting",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 4015,
+    "title": "Weighted Sum of a Tree",
+    "title_slug": "weighted-sum-of-a-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Depth-First Search",
+      "Tree"
+    ]
   }
 ]
