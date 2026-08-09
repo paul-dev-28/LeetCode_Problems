@@ -1571,6 +1571,19 @@
     ]
   },
   {
+    "id": 456,
+    "title": "132 Pattern",
+    "title_slug": "132-pattern",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Monotonic Stack",
+      "Ordered Set",
+      "Stack"
+    ]
+  },
+  {
     "id": 476,
     "title": "Number Complement",
     "title_slug": "number-complement",

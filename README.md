@@ -146,6 +146,7 @@
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
 | 0450 | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst) | Medium | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Quicksort` `Sorting` `Two Pointers` |
+| 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern) | Medium | `Array` `Binary Search` `Monotonic Stack` `Ordered Set` `Stack` |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | `Bit Manipulation` |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | `String` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
