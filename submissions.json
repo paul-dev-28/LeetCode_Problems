@@ -1419,6 +1419,16 @@
     ]
   },
   {
+    "id": 400,
+    "title": "Nth Digit",
+    "title_slug": "nth-digit",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 401,
     "title": "Binary Watch",
     "title_slug": "binary-watch",

@@ -132,6 +132,7 @@
 | 0387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string) | Easy | `Counting` `Hash Table` `Queue` `String` |
 | 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
+| 0400 | [Nth Digit](https://leetcode.com/problems/nth-digit) | Medium | `Binary Search` `Math` |
 | 0401 | [Binary Watch](https://leetcode.com/problems/binary-watch) | Easy | `Backtracking` `Bit Manipulation` |
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 0409 | [Longest Palindrome](https://leetcode.com/problems/longest-palindrome) | Easy | `Greedy` `Hash Table` `String` |
