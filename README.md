@@ -427,3 +427,4 @@
 | 4006 | [Count Valid Prefixes](https://leetcode.com/problems/count-valid-prefixes) | Easy | `Counting` `String` |
 | 4010 | [Maximize Pair Strength Using GCD](https://leetcode.com/problems/maximize-pair-strength-using-gcd) | Easy | `Array` `Enumeration` `Math` `Number Theory` |
 | 4011 | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i) | Medium | `Array` `Binary Indexed Tree` `Divide and Conquer` `Merge Sort` `Prefix Sum` `Segment Tree` |
+| 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
