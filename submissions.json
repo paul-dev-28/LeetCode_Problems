@@ -2783,6 +2783,21 @@
     ]
   },
   {
+    "id": 1510,
+    "title": "Stone Game IV",
+    "title_slug": "stone-game-iv",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Nim Game",
+      "Sprague–Grundy Theorem",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 1512,
     "title": "Number of Good Pairs",
     "title_slug": "number-of-good-pairs",
