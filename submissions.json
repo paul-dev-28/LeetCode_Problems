@@ -3460,6 +3460,17 @@
     ]
   },
   {
+    "id": 2996,
+    "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+    "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3005,
     "title": "Count Elements With Maximum Frequency",
     "title_slug": "count-elements-with-maximum-frequency",
