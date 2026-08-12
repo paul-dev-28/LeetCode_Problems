@@ -3460,6 +3460,17 @@
     ]
   },
   {
+    "id": 2958,
+    "title": "Length of Longest Subarray With at Most K Frequency",
+    "title_slug": "length-of-longest-subarray-with-at-most-k-frequency",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2996,
     "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
     "title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
