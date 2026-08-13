@@ -3309,6 +3309,18 @@
     ]
   },
   {
+    "id": 2213,
+    "title": "Longest Substring of One Repeating Character",
+    "title_slug": "longest-substring-of-one-repeating-character",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Ordered Set",
+      "Segment Tree",
+      "String"
+    ]
+  },
+  {
     "id": 2220,
     "title": "Minimum Bit Flips to Convert Number",
     "title_slug": "minimum-bit-flips-to-convert-number",
