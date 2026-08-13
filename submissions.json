@@ -3470,6 +3470,17 @@
     ]
   },
   {
+    "id": 2799,
+    "title": "Count Complete Subarrays in an Array",
+    "title_slug": "count-complete-subarrays-in-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2812,
     "title": "Find the Safest Path in a Grid",
     "title_slug": "find-the-safest-path-in-a-grid",
