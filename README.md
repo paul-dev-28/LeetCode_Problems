@@ -309,6 +309,7 @@
 | 2213 | [Longest Substring of One Repeating Character](https://leetcode.com/problems/longest-substring-of-one-repeating-character) | Hard | `Array` `Ordered Set` `Segment Tree` `String` |
 | 2220 | [Minimum Bit Flips to Convert Number](https://leetcode.com/problems/minimum-bit-flips-to-convert-number) | Easy | `Bit Manipulation` |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | `Math` |
+| 2260 | [Minimum Consecutive Cards to Pick Up](https://leetcode.com/problems/minimum-consecutive-cards-to-pick-up) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 2413 | [Smallest Even Multiple](https://leetcode.com/problems/smallest-even-multiple) | Easy | `Math` `Number Theory` |
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Euclidean Algorithm` `Greatest Common Divisor` `Math` `Number Theory` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |

@@ -3360,6 +3360,17 @@
     ]
   },
   {
+    "id": 2260,
+    "title": "Minimum Consecutive Cards to Pick Up",
+    "title_slug": "minimum-consecutive-cards-to-pick-up",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
