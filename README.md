@@ -271,6 +271,7 @@
 | 1679 | [Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs) | Medium | `Array` `Hash Table` `Sorting` `Two Pointers` |
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) | Medium | `Bit Manipulation` `Math` `Simulation` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | `Greedy` `String` |
+| 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | Easy | `Math` |
 | 1727 | [Largest Submatrix With Rearrangements](https://leetcode.com/problems/largest-submatrix-with-rearrangements) | Medium | `Array` `Greedy` `Matrix` `Sorting` |

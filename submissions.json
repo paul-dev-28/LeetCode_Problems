@@ -2950,6 +2950,17 @@
     ]
   },
   {
+    "id": 1695,
+    "title": "Maximum Erasure Value",
+    "title_slug": "maximum-erasure-value",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 1710,
     "title": "Maximum Units on a Truck",
     "title_slug": "maximum-units-on-a-truck",
