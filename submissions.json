@@ -3253,6 +3253,19 @@
     ]
   },
   {
+    "id": 2094,
+    "title": "Finding 3-Digit Even Numbers",
+    "title_slug": "finding-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Recursion",
+      "Sorting"
+    ]
+  },
+  {
     "id": 2095,
     "title": "Delete the Middle Node of a Linked List",
     "title_slug": "delete-the-middle-node-of-a-linked-list",
