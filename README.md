@@ -334,6 +334,7 @@
 | 3020 | [Find the Maximum Number of Elements in Subset](https://leetcode.com/problems/find-the-maximum-number-of-elements-in-subset) | Medium | `Array` `Enumeration` `Hash Table` |
 | 3070 | [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 3074 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes) | Easy | `Array` `Greedy` `Sorting` |
+| 3090 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences) | Easy | `Hash Table` `Sliding Window` `String` |
 | 3129 | [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i) | Medium | `Dynamic Programming` `Prefix Sum` |
 | 3130 | [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii) | Hard | `Dynamic Programming` `Prefix Sum` |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three) | Easy | `Array` `Math` |

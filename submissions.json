@@ -3641,6 +3641,17 @@
     ]
   },
   {
+    "id": 3090,
+    "title": "Maximum Length Substring With Two Occurrences",
+    "title_slug": "maximum-length-substring-with-two-occurrences",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 3129,
     "title": "Find All Possible Stable Binary Arrays I",
     "title_slug": "find-all-possible-stable-binary-arrays-i",
