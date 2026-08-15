@@ -443,3 +443,4 @@
 | 4011 | [Count Subarrays With Even Odd Ratio I](https://leetcode.com/problems/count-subarrays-with-even-odd-ratio-i) | Medium | `Array` `Binary Indexed Tree` `Divide and Conquer` `Merge Sort` `Prefix Sum` `Segment Tree` |
 | 4014 | [Minimum Total Price After Applying Discounts](https://leetcode.com/problems/minimum-total-price-after-applying-discounts) | Medium | `Array` `Greedy` `Sorting` `Two Pointers` |
 | 4015 | [Weighted Sum of a Tree](https://leetcode.com/problems/weighted-sum-of-a-tree) | Medium | `Array` `Depth-First Search` `Tree` |
+| 4021 | [Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i) | Medium | `Enumeration` `Math` `String` |

@@ -4860,5 +4860,16 @@
       "Depth-First Search",
       "Tree"
     ]
+  },
+  {
+    "id": 4021,
+    "title": "Minimum Operations to Make a Rotated Palindrome I",
+    "title_slug": "minimum-operations-to-make-a-rotated-palindrome-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Enumeration",
+      "Math",
+      "String"
+    ]
   }
 ]
