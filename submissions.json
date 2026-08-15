@@ -4862,6 +4862,16 @@
     ]
   },
   {
+    "id": 4020,
+    "title": "Elevator Requests I",
+    "title_slug": "elevator-requests-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 4021,
     "title": "Minimum Operations to Make a Rotated Palindrome I",
     "title_slug": "minimum-operations-to-make-a-rotated-palindrome-i",
