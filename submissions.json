@@ -4871,5 +4871,15 @@
       "Math",
       "String"
     ]
+  },
+  {
+    "id": 4022,
+    "title": "K-th Digit in Infinite String",
+    "title_slug": "k-th-digit-in-infinite-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
   }
 ]
