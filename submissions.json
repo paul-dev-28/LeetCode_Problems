@@ -4142,6 +4142,16 @@
     ]
   },
   {
+    "id": 3702,
+    "title": "Longest Subsequence With Non-Zero Bitwise XOR",
+    "title_slug": "longest-subsequence-with-non-zero-bitwise-xor",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 3713,
     "title": "Longest Balanced Substring I",
     "title_slug": "longest-balanced-substring-i",

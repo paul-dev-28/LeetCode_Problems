@@ -377,6 +377,7 @@
 | 3666 | [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string) | Hard | `Breadth-First Search` `Math` `Ordered Set` `String` `Union-Find` |
 | 3699 | [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i) | Hard | `Dynamic Programming` `Prefix Sum` |
 | 3700 | [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii) | Hard | `Dynamic Programming` `Math` |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i) | Medium | `Counting` `Enumeration` `Hash Table` `String` |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii) | Medium | `Hash Table` `Prefix Sum` `String` |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i) | Medium | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
