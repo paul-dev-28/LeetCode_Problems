@@ -448,3 +448,4 @@
 | 4022 | [K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string) | Medium | `Binary Search` `Math` |
 | 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone) | Easy | `Array` `Enumeration` |
 | 4025 | [Minimize the Maximum Waiting Time at Synchronized Traffic Lights](https://leetcode.com/problems/minimize-the-maximum-waiting-time-at-synchronized-traffic-lights) | Medium | `Array` `Greedy` |
+| 4026 | [Maximum Gap Between Stations](https://leetcode.com/problems/maximum-gap-between-stations) | Medium | `Greedy` `String` `Two Pointers` |

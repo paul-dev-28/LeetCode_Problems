@@ -4911,5 +4911,16 @@
       "Array",
       "Greedy"
     ]
+  },
+  {
+    "id": 4026,
+    "title": "Maximum Gap Between Stations",
+    "title_slug": "maximum-gap-between-stations",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "String",
+      "Two Pointers"
+    ]
   }
 ]
