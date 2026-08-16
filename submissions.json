@@ -4891,5 +4891,15 @@
       "Binary Search",
       "Math"
     ]
+  },
+  {
+    "id": 4024,
+    "title": "Nearest Available Drone",
+    "title_slug": "nearest-available-drone",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
   }
 ]

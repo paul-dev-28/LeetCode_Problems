@@ -446,3 +446,4 @@
 | 4020 | [Elevator Requests I](https://leetcode.com/problems/elevator-requests-i) | Easy | `Array` `Simulation` |
 | 4021 | [Minimum Operations to Make a Rotated Palindrome I](https://leetcode.com/problems/minimum-operations-to-make-a-rotated-palindrome-i) | Medium | `Enumeration` `Math` `String` |
 | 4022 | [K-th Digit in Infinite String](https://leetcode.com/problems/k-th-digit-in-infinite-string) | Medium | `Binary Search` `Math` |
+| 4024 | [Nearest Available Drone](https://leetcode.com/problems/nearest-available-drone) | Easy | `Array` `Enumeration` |
