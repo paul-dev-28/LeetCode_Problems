@@ -4901,5 +4901,15 @@
       "Array",
       "Enumeration"
     ]
+  },
+  {
+    "id": 4025,
+    "title": "Minimize the Maximum Waiting Time at Synchronized Traffic Lights",
+    "title_slug": "minimize-the-maximum-waiting-time-at-synchronized-traffic-lights",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
   }
 ]
