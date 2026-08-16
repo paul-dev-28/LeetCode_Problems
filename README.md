@@ -88,6 +88,7 @@
 | 0189 | [Rotate Array](https://leetcode.com/problems/rotate-array) | Medium | `Array` `Math` `Two Pointers` |
 | 0190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
 | 0191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits) | Easy | `Bit Manipulation` `Divide and Conquer` |
+| 0198 | [House Robber](https://leetcode.com/problems/house-robber) | Medium | `Array` `Dynamic Programming` |
 | 0199 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0200 | [Number of Islands](https://leetcode.com/problems/number-of-islands) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Math` `Two Pointers` |
