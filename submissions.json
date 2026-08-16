@@ -2966,6 +2966,20 @@
     ]
   },
   {
+    "id": 1690,
+    "title": "Stone Game VII",
+    "title_slug": "stone-game-vii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 1695,
     "title": "Maximum Erasure Value",
     "title_slug": "maximum-erasure-value",

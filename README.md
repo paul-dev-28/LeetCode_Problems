@@ -272,6 +272,7 @@
 | 1680 | [Concatenation of Consecutive Binary Numbers](https://leetcode.com/problems/concatenation-of-consecutive-binary-numbers) | Medium | `Bit Manipulation` `Math` `Simulation` |
 | 1686 | [Stone Game VI](https://leetcode.com/problems/stone-game-vi) | Medium | `Array` `Game Theory` `Greedy` `Heap (Priority Queue)` `Math` `Minimax` `Sorting` `Zero-Sum Game` |
 | 1689 | [Partitioning Into Minimum Number Of Deci-Binary Numbers](https://leetcode.com/problems/partitioning-into-minimum-number-of-deci-binary-numbers) | Medium | `Greedy` `String` |
+| 1690 | [Stone Game VII](https://leetcode.com/problems/stone-game-vii) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` `Minimax` `Zero-Sum Game` |
 | 1695 | [Maximum Erasure Value](https://leetcode.com/problems/maximum-erasure-value) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 1710 | [Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck) | Easy | `Array` `Greedy` `Sorting` |
 | 1716 | [Calculate Money in Leetcode Bank](https://leetcode.com/problems/calculate-money-in-leetcode-bank) | Easy | `Math` |
