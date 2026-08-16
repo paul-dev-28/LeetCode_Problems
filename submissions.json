@@ -2363,6 +2363,16 @@
     ]
   },
   {
+    "id": 1046,
+    "title": "Last Stone Weight",
+    "title_slug": "last-stone-weight",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Heap (Priority Queue)"
+    ]
+  },
+  {
     "id": 1051,
     "title": "Height Checker",
     "title_slug": "height-checker",
