@@ -2940,6 +2940,22 @@
     ]
   },
   {
+    "id": 1686,
+    "title": "Stone Game VI",
+    "title_slug": "stone-game-vi",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Game Theory",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Math",
+      "Minimax",
+      "Sorting",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 1689,
     "title": "Partitioning Into Minimum Number Of Deci-Binary Numbers",
     "title_slug": "partitioning-into-minimum-number-of-deci-binary-numbers",
