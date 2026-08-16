@@ -3283,6 +3283,22 @@
     ]
   },
   {
+    "id": 2029,
+    "title": "Stone Game IX",
+    "title_slug": "stone-game-ix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Counting",
+      "Game Theory",
+      "Greedy",
+      "Math",
+      "Minimax",
+      "Nim Game",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 2094,
     "title": "Finding 3-Digit Even Numbers",
     "title_slug": "finding-3-digit-even-numbers",
