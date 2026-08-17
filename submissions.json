@@ -146,6 +146,18 @@
     ]
   },
   {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Bracket Sequences",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 25,
     "title": "Reverse Nodes in k-Group",
     "title_slug": "reverse-nodes-in-k-group",

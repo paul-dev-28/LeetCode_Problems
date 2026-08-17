@@ -20,6 +20,7 @@
 | 0018 | [4Sum](https://leetcode.com/problems/4sum) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0019 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list) | Medium | `Linked List` `Two Pointers` |
 | 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Bracket Sequences` `Stack` `String` |
+| 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Bracket Sequences` `Dynamic Programming` `String` |
 | 0025 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group) | Hard | `Linked List` `Recursion` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
