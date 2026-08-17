@@ -512,6 +512,17 @@
     ]
   },
   {
+    "id": 90,
+    "title": "Subsets II",
+    "title_slug": "subsets-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation"
+    ]
+  },
+  {
     "id": 94,
     "title": "Binary Tree Inorder Traversal",
     "title_slug": "binary-tree-inorder-traversal",
