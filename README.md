@@ -30,6 +30,7 @@
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | `Array` `Binary Search` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
+| 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | `Array` `Backtracking` |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | `Array` `Dynamic Programming` `Monotonic Stack` `Stack` `Two Pointers` |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |

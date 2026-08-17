@@ -252,6 +252,16 @@
     ]
   },
   {
+    "id": 39,
+    "title": "Combination Sum",
+    "title_slug": "combination-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 42,
     "title": "Trapping Rain Water",
     "title_slug": "trapping-rain-water",
