@@ -2881,6 +2881,18 @@
     ]
   },
   {
+    "id": 1563,
+    "title": "Stone Game V",
+    "title_slug": "stone-game-v",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math"
+    ]
+  },
+  {
     "id": 1582,
     "title": "Special Positions in a Binary Matrix",
     "title_slug": "special-positions-in-a-binary-matrix",
