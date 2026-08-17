@@ -101,6 +101,7 @@
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 0210 | [Course Schedule II](https://leetcode.com/problems/course-schedule-ii) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Topological Sort` |
 | 0215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array) | Medium | `Array` `Divide and Conquer` `Heap (Priority Queue)` `Quickselect` `Sorting` |
+| 0216 | [Combination Sum III](https://leetcode.com/problems/combination-sum-iii) | Medium | `Array` `Backtracking` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | Medium | `Binary Search` `Binary Tree` `Bit Manipulation` `Tree` |
