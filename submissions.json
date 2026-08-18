@@ -3990,6 +3990,16 @@
     ]
   },
   {
+    "id": 3471,
+    "title": "Find the Largest Almost Missing Integer",
+    "title_slug": "find-the-largest-almost-missing-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3499,
     "title": "Maximize Active Section with Trade I",
     "title_slug": "maximize-active-section-with-trade-i",
