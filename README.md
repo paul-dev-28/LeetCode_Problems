@@ -37,6 +37,7 @@
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
+| 0051 | [N-Queens](https://leetcode.com/problems/n-queens) | Hard | `Algorithm X` `Array` `Backtracking` |
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0054 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix) | Medium | `Array` `Matrix` `Simulation` |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | `Array` `Dynamic Programming` `Greedy` |

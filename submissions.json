@@ -328,6 +328,17 @@
     ]
   },
   {
+    "id": 51,
+    "title": "N-Queens",
+    "title_slug": "n-queens",
+    "difficulty": "Hard",
+    "skills": [
+      "Algorithm X",
+      "Array",
+      "Backtracking"
+    ]
+  },
+  {
     "id": 53,
     "title": "Maximum Subarray",
     "title_slug": "maximum-subarray",
