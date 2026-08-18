@@ -124,6 +124,7 @@
 | 0258 | [Add Digits](https://leetcode.com/problems/add-digits) | Easy | `Math` `Number Theory` `Simulation` |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
+| 0282 | [Expression Add Operators](https://leetcode.com/problems/expression-add-operators) | Hard | `Backtracking` `Math` `String` |
 | 0283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes) | Easy | `Array` `Two Pointers` |
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Floyd's Cycle Finding Algorithm` `Pigeonhole Principle` `Two Pointers` |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Design` `String` `Tree` |
