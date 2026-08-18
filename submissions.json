@@ -263,6 +263,20 @@
     ]
   },
   {
+    "id": 37,
+    "title": "Sudoku Solver",
+    "title_slug": "sudoku-solver",
+    "difficulty": "Hard",
+    "skills": [
+      "Algorithm X",
+      "Array",
+      "Backtracking",
+      "Dancing Links",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 39,
     "title": "Combination Sum",
     "title_slug": "combination-sum",
