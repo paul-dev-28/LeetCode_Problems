@@ -503,6 +503,19 @@
     ]
   },
   {
+    "id": 79,
+    "title": "Word Search",
+    "title_slug": "word-search",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Depth-First Search",
+      "Matrix",
+      "String"
+    ]
+  },
+  {
     "id": 80,
     "title": "Remove Duplicates from Sorted Array II",
     "title_slug": "remove-duplicates-from-sorted-array-ii",
