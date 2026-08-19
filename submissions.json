@@ -43,6 +43,18 @@
     ]
   },
   {
+    "id": 5,
+    "title": "Longest Palindromic Substring",
+    "title_slug": "longest-palindromic-substring",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Manacher",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 7,
     "title": "Reverse Integer",
     "title_slug": "reverse-integer",
