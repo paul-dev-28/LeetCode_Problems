@@ -3263,6 +3263,17 @@
     ]
   },
   {
+    "id": 1781,
+    "title": "Sum of Beauty of All Substrings",
+    "title_slug": "sum-of-beauty-of-all-substrings",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 1784,
     "title": "Check if Binary String Has at Most One Segment of Ones",
     "title_slug": "check-if-binary-string-has-at-most-one-segment-of-ones",
