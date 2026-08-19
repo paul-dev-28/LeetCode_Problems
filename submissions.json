@@ -2806,6 +2806,18 @@
     ]
   },
   {
+    "id": 1386,
+    "title": "Cinema Seat Allocation",
+    "title_slug": "cinema-seat-allocation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 1404,
     "title": "Number of Steps to Reduce a Number in Binary Representation to One",
     "title_slug": "number-of-steps-to-reduce-a-number-in-binary-representation-to-one",
