@@ -194,6 +194,7 @@
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | Medium | `Bracket Sequences` `Dynamic Programming` `Greedy` `Stack` `String` |
 | 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | `Bit Manipulation` |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | `String` `Two Pointers` |
+| 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy | `Array` `Hash Table` |
 | 0700 | [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree) | Easy | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Tree` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |

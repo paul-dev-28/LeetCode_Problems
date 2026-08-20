@@ -2098,6 +2098,16 @@
     ]
   },
   {
+    "id": 697,
+    "title": "Degree of an Array",
+    "title_slug": "degree-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 700,
     "title": "Search in a Binary Search Tree",
     "title_slug": "search-in-a-binary-search-tree",
