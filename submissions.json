@@ -1387,6 +1387,16 @@
     ]
   },
   {
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 297,
     "title": "Serialize and Deserialize Binary Tree",
     "title_slug": "serialize-and-deserialize-binary-tree",
