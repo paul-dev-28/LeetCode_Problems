@@ -1691,6 +1691,18 @@
     ]
   },
   {
+    "id": 435,
+    "title": "Non-overlapping Intervals",
+    "title_slug": "non-overlapping-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 441,
     "title": "Arranging Coins",
     "title_slug": "arranging-coins",
