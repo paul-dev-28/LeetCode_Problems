@@ -450,6 +450,17 @@
     ]
   },
   {
+    "id": 64,
+    "title": "Minimum Path Sum",
+    "title_slug": "minimum-path-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 66,
     "title": "Plus One",
     "title_slug": "plus-one",
