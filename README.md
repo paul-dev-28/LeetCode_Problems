@@ -77,6 +77,7 @@
 | 0114 | [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list) | Medium | `Binary Tree` `Depth-First Search` `Linked List` `Stack` `Tree` |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | `Array` `Dynamic Programming` |
 | 0119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii) | Easy | `Array` `Dynamic Programming` |
+| 0120 | [Triangle](https://leetcode.com/problems/triangle) | Medium | `Array` `Dynamic Programming` |
 | 0121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock) | Easy | `Array` `Dynamic Programming` |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | `Binary Tree` `DP on Trees` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
