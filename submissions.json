@@ -3994,6 +3994,20 @@
     ]
   },
   {
+    "id": 3116,
+    "title": "Kth Smallest Amount With Single Denomination Combination",
+    "title_slug": "kth-smallest-amount-with-single-denomination-combination",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Combinatorics",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3129,
     "title": "Find All Possible Stable Binary Arrays I",
     "title_slug": "find-all-possible-stable-binary-arrays-i",
