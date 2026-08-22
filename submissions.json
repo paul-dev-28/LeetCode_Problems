@@ -3971,6 +3971,15 @@
     ]
   },
   {
+    "id": 2652,
+    "title": "Sum Multiples",
+    "title_slug": "sum-multiples",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2685,
     "title": "Count the Number of Complete Components",
     "title_slug": "count-the-number-of-complete-components",
