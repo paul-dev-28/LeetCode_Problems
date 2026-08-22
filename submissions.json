@@ -2659,6 +2659,19 @@
     ]
   },
   {
+    "id": 1025,
+    "title": "Divisor Game",
+    "title_slug": "divisor-game",
+    "difficulty": "Easy",
+    "skills": [
+      "Brainteaser",
+      "Dynamic Programming",
+      "Game Theory",
+      "Impartial Game",
+      "Math"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
