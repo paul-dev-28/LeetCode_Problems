@@ -3860,6 +3860,15 @@
     ]
   },
   {
+    "id": 2520,
+    "title": "Count the Digits That Divide a Number",
+    "title_slug": "count-the-digits-that-divide-a-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2553,
     "title": "Separate the Digits in an Array",
     "title_slug": "separate-the-digits-in-an-array",
