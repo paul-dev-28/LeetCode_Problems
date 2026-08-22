@@ -405,6 +405,7 @@
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades) | Hard | `Binary Search` `Graph Theory` `Greedy` `Minimum Spanning Tree` `Union-Find` |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i) | Medium | `Simulation` `String` |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways) | Hard | `Array` `Binary Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` `Topological Sort` |
+| 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3634 | [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array) | Medium | `Array` `Binary Search` `Sliding Window` `Sorting` |
 | 3637 | [Trionic Array I](https://leetcode.com/problems/trionic-array-i) | Easy | `Array` |
 | 3640 | [Trionic Array II](https://leetcode.com/problems/trionic-array-ii) | Hard | `Array` `Dynamic Programming` |
