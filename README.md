@@ -365,6 +365,7 @@
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Medium | `Array` `Greedy` `Prefix Sum` `Sorting` |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
+| 2769 | [Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number) | Easy | `Math` |
 | 2784 | [Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good) | Easy | `Array` `Hash Table` `Sorting` |
 | 2785 | [Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string) | Medium | `Sorting` `String` |
 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | Medium | `Array` `Hash Table` `Sliding Window` |

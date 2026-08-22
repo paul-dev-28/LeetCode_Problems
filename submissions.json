@@ -3983,6 +3983,15 @@
     ]
   },
   {
+    "id": 2769,
+    "title": "Find the Maximum Achievable Number",
+    "title_slug": "find-the-maximum-achievable-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2784,
     "title": "Check if Array is Good",
     "title_slug": "check-if-array-is-good",
