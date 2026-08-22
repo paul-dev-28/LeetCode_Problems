@@ -2466,6 +2466,17 @@
     ]
   },
   {
+    "id": 931,
+    "title": "Minimum Falling Path Sum",
+    "title_slug": "minimum-falling-path-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 944,
     "title": "Delete Columns to Make Sorted",
     "title_slug": "delete-columns-to-make-sorted",
