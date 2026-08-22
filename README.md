@@ -353,6 +353,7 @@
 | 2427 | [Number of Common Factors](https://leetcode.com/problems/number-of-common-factors) | Easy | `Enumeration` `Euclidean Algorithm` `Greatest Common Divisor` `Math` `Number Theory` |
 | 2455 | [Average Value of Even Numbers That Are Divisible by Three](https://leetcode.com/problems/average-value-of-even-numbers-that-are-divisible-by-three) | Easy | `Array` `Math` |
 | 2469 | [Convert the Temperature](https://leetcode.com/problems/convert-the-temperature) | Easy | `Math` |
+| 2485 | [Find the Pivot Integer](https://leetcode.com/problems/find-the-pivot-integer) | Easy | `Math` `Prefix Sum` |
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |

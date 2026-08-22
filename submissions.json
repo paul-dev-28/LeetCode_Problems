@@ -3858,6 +3858,16 @@
     ]
   },
   {
+    "id": 2485,
+    "title": "Find the Pivot Integer",
+    "title_slug": "find-the-pivot-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 2492,
     "title": "Minimum Score of a Path Between Two Cities",
     "title_slug": "minimum-score-of-a-path-between-two-cities",
