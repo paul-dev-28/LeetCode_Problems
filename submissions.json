@@ -3070,6 +3070,17 @@
     ]
   },
   {
+    "id": 1463,
+    "title": "Cherry Pickup II",
+    "title_slug": "cherry-pickup-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1464,
     "title": "Maximum Product of Two Elements in an Array",
     "title_slug": "maximum-product-of-two-elements-in-an-array",
