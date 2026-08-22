@@ -2233,6 +2233,15 @@
     ]
   },
   {
+    "id": 728,
+    "title": "Self Dividing Numbers",
+    "title_slug": "self-dividing-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 733,
     "title": "Flood Fill",
     "title_slug": "flood-fill",

@@ -207,6 +207,7 @@
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | Easy | `Array` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
+| 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | `Math` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | `Array` `Simulation` `Stack` |
 | 0741 | [Cherry Pickup](https://leetcode.com/problems/cherry-pickup) | Hard | `Array` `Dynamic Programming` `Matrix` |
