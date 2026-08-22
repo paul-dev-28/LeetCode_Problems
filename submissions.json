@@ -3839,6 +3839,16 @@
     ]
   },
   {
+    "id": 2455,
+    "title": "Average Value of Even Numbers That Are Divisible by Three",
+    "title_slug": "average-value-of-even-numbers-that-are-divisible-by-three",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 2469,
     "title": "Convert the Temperature",
     "title_slug": "convert-the-temperature",
