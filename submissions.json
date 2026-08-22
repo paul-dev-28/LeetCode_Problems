@@ -2473,6 +2473,16 @@
     ]
   },
   {
+    "id": 908,
+    "title": "Smallest Range I",
+    "title_slug": "smallest-range-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 921,
     "title": "Minimum Add to Make Parentheses Valid",
     "title_slug": "minimum-add-to-make-parentheses-valid",
