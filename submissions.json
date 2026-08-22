@@ -2245,6 +2245,17 @@
     ]
   },
   {
+    "id": 741,
+    "title": "Cherry Pickup",
+    "title_slug": "cherry-pickup",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 744,
     "title": "Find Smallest Letter Greater Than Target",
     "title_slug": "find-smallest-letter-greater-than-target",
