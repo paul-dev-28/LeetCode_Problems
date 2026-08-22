@@ -3899,6 +3899,15 @@
     ]
   },
   {
+    "id": 2544,
+    "title": "Alternating Digit Sum",
+    "title_slug": "alternating-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2553,
     "title": "Separate the Digits in an Array",
     "title_slug": "separate-the-digits-in-an-array",

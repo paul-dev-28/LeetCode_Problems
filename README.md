@@ -357,6 +357,7 @@
 | 2492 | [Minimum Score of a Path Between Two Cities](https://leetcode.com/problems/minimum-score-of-a-path-between-two-cities) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 2520 | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number) | Easy | `Math` |
 | 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array) | Easy | `Array` `Math` |
+| 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Medium | `Array` `Greedy` `Prefix Sum` `Sorting` |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
