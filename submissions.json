@@ -3889,6 +3889,16 @@
     ]
   },
   {
+    "id": 2535,
+    "title": "Difference Between Element Sum and Digit Sum of an Array",
+    "title_slug": "difference-between-element-sum-and-digit-sum-of-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 2553,
     "title": "Separate the Digits in an Array",
     "title_slug": "separate-the-digits-in-an-array",
