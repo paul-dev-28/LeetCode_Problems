@@ -269,6 +269,7 @@
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score) | Hard | `Array` `Dynamic Programming` `Matrix` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | `Math` |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | `Greedy` `Math` |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | Easy | `Array` `Hash Table` `Sorting` |
 | 1344 | [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock) | Medium | `Math` |
 | 1346 | [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |

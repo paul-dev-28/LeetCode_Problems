@@ -2918,6 +2918,16 @@
     ]
   },
   {
+    "id": 1323,
+    "title": "Maximum 69 Number",
+    "title_slug": "maximum-69-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 1331,
     "title": "Rank Transform of an Array",
     "title_slug": "rank-transform-of-an-array",
