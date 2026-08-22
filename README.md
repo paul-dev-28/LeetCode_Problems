@@ -392,6 +392,7 @@
 | 3211 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros) | Medium | `Backtracking` `Bit Manipulation` `String` |
 | 3212 | [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 3286 | [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid) | Medium | `Array` `Breadth-First Search` `Graph Theory` `Heap (Priority Queue)` `Matrix` `Shortest Path` |
+| 3289 | [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville) | Easy | `Array` `Hash Table` `Math` |
 | 3296 | [Minimum Number of Seconds to Make Mountain Height Zero](https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero) | Medium | `Array` `Binary Search` `Greedy` `Heap (Priority Queue)` `Math` |
 | 3302 | [Find the Lexicographically Smallest Valid Sequence](https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence) | Medium | `Dynamic Programming` `Greedy` `String` `Two Pointers` |
 | 3310 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` |

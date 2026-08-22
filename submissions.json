@@ -4281,6 +4281,17 @@
     ]
   },
   {
+    "id": 3289,
+    "title": "The Two Sneaky Numbers of Digitville",
+    "title_slug": "the-two-sneaky-numbers-of-digitville",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 3296,
     "title": "Minimum Number of Seconds to Make Mountain Height Zero",
     "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
