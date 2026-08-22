@@ -1668,6 +1668,17 @@
     ]
   },
   {
+    "id": 405,
+    "title": "Convert a Number to Hexadecimal",
+    "title_slug": "convert-a-number-to-hexadecimal",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 409,
     "title": "Longest Palindrome",
     "title_slug": "longest-palindrome",
