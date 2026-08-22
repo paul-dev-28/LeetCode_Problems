@@ -4114,6 +4114,17 @@
     ]
   },
   {
+    "id": 3211,
+    "title": "Generate Binary Strings Without Adjacent Zeros",
+    "title_slug": "generate-binary-strings-without-adjacent-zeros",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Bit Manipulation",
+      "String"
+    ]
+  },
+  {
     "id": 3212,
     "title": "Count Submatrices With Equal Frequency of X and Y",
     "title_slug": "count-submatrices-with-equal-frequency-of-x-and-y",
