@@ -2095,6 +2095,17 @@
     ]
   },
   {
+    "id": 647,
+    "title": "Palindromic Substrings",
+    "title_slug": "palindromic-substrings",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 653,
     "title": "Two Sum IV - Input is a BST",
     "title_slug": "two-sum-iv-input-is-a-bst",
