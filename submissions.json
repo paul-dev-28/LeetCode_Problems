@@ -5536,5 +5536,12 @@
       "String",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 4030,
+    "title": "Check ASCII Palindromic",
+    "title_slug": "check-ascii-palindromic",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]
