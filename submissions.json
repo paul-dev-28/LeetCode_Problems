@@ -3611,6 +3611,18 @@
     ]
   },
   {
+    "id": 1927,
+    "title": "Sum Game",
+    "title_slug": "sum-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Game Theory",
+      "Greedy",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 1929,
     "title": "Concatenation of Array",
     "title_slug": "concatenation-of-array",
