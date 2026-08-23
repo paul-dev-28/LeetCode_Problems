@@ -5543,5 +5543,12 @@
     "title_slug": "check-ascii-palindromic",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 4032,
+    "title": "Longest Subarray With at Most K Distinct Prime Factors",
+    "title_slug": "longest-subarray-with-at-most-k-distinct-prime-factors",
+    "difficulty": "Medium",
+    "skills": []
   }
 ]
