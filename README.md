@@ -201,6 +201,7 @@
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | Medium | `Array` |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | Medium | `Bracket Sequences` `Dynamic Programming` `Greedy` `Stack` `String` |
+| 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
 | 0693 | [Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits) | Easy | `Bit Manipulation` |
 | 0696 | [Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings) | Easy | `String` `Two Pointers` |
 | 0697 | [Degree of an Array](https://leetcode.com/problems/degree-of-an-array) | Easy | `Array` `Hash Table` |

@@ -2178,6 +2178,17 @@
     ]
   },
   {
+    "id": 680,
+    "title": "Valid Palindrome II",
+    "title_slug": "valid-palindrome-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Greedy",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 693,
     "title": "Binary Number with Alternating Bits",
     "title_slug": "binary-number-with-alternating-bits",
