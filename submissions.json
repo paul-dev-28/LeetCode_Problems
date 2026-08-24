@@ -3545,6 +3545,21 @@
     ]
   },
   {
+    "id": 1872,
+    "title": "Stone Game VIII",
+    "title_slug": "stone-game-viii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math",
+      "Minimax",
+      "Prefix Sum",
+      "Zero-Sum Game"
+    ]
+  },
+  {
     "id": 1877,
     "title": "Minimize Maximum Pair Sum in Array",
     "title_slug": "minimize-maximum-pair-sum-in-array",
