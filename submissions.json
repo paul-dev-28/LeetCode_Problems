@@ -1849,6 +1849,18 @@
     ]
   },
   {
+    "id": 459,
+    "title": "Repeated Substring Pattern",
+    "title_slug": "repeated-substring-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Knuth–Morris–Pratt Algorithm",
+      "String",
+      "String Matching",
+      "Z Algorithm"
+    ]
+  },
+  {
     "id": 476,
     "title": "Number Complement",
     "title_slug": "number-complement",

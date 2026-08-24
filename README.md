@@ -171,6 +171,7 @@
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` |
 | 0455 | [Assign Cookies](https://leetcode.com/problems/assign-cookies) | Easy | `Array` `Greedy` `Quicksort` `Sorting` `Two Pointers` |
 | 0456 | [132 Pattern](https://leetcode.com/problems/132-pattern) | Medium | `Array` `Binary Search` `Monotonic Stack` `Ordered Set` `Stack` |
+| 0459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern) | Easy | `Knuth–Morris–Pratt Algorithm` `String` `String Matching` `Z Algorithm` |
 | 0476 | [Number Complement](https://leetcode.com/problems/number-complement) | Easy | `Bit Manipulation` |
 | 0482 | [License Key Formatting](https://leetcode.com/problems/license-key-formatting) | Easy | `String` |
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
