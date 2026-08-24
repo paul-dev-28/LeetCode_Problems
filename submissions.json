@@ -2373,6 +2373,16 @@
     ]
   },
   {
+    "id": 771,
+    "title": "Jewels and Stones",
+    "title_slug": "jewels-and-stones",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 785,
     "title": "Is Graph Bipartite?",
     "title_slug": "is-graph-bipartite",
