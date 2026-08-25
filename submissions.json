@@ -4871,6 +4871,16 @@
     ]
   },
   {
+    "id": 3718,
+    "title": "Smallest Missing Multiple of K",
+    "title_slug": "smallest-missing-multiple-of-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3719,
     "title": "Longest Balanced Subarray I",
     "title_slug": "longest-balanced-subarray-i",

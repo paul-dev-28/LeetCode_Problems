@@ -443,6 +443,7 @@
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i) | Medium | `Counting` `Enumeration` `Hash Table` `String` |
 | 3714 | [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii) | Medium | `Hash Table` `Prefix Sum` `String` |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | Easy | `Array` `Hash Table` |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i) | Medium | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii) | Hard | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | Easy | `Array` `Hash Table` `Sorting` |
