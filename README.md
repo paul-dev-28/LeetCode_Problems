@@ -137,6 +137,7 @@
 | 0287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number) | Medium | `Array` `Binary Search` `Bit Manipulation` `Floyd's Cycle Finding Algorithm` `Pigeonhole Principle` `Two Pointers` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
 | 0297 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Design` `String` `Tree` |
+| 0322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | `Array` `Breadth-First Search` `Complete Knapsack` `Dynamic Programming` `Knapsack Problem` |
 | 0326 | [Power of Three](https://leetcode.com/problems/power-of-three) | Easy | `Math` `Recursion` |
 | 0328 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list) | Medium | `Linked List` |
 | 0334 | [Increasing Triplet Subsequence](https://leetcode.com/problems/increasing-triplet-subsequence) | Medium | `Array` `Greedy` `Longest Increasing Subsequence` |

@@ -1469,6 +1469,19 @@
     ]
   },
   {
+    "id": 322,
+    "title": "Coin Change",
+    "title_slug": "coin-change",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Complete Knapsack",
+      "Dynamic Programming",
+      "Knapsack Problem"
+    ]
+  },
+  {
     "id": 326,
     "title": "Power of Three",
     "title_slug": "power-of-three",
