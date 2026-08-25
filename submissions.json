@@ -3849,6 +3849,23 @@
     ]
   },
   {
+    "id": 2035,
+    "title": "Partition Array Into Two Arrays to Minimize Sum Difference",
+    "title_slug": "partition-array-into-two-arrays-to-minimize-sum-difference",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Bit Manipulation",
+      "Bitmask",
+      "Dynamic Programming",
+      "Meet in the Middle",
+      "Ordered Set",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2094,
     "title": "Finding 3-Digit Even Numbers",
     "title_slug": "finding-3-digit-even-numbers",
