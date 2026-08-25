@@ -2230,6 +2230,20 @@
     ]
   },
   {
+    "id": 698,
+    "title": "Partition to K Equal Sum Subsets",
+    "title_slug": "partition-to-k-equal-sum-subsets",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Backtracking",
+      "Bit Manipulation",
+      "Bitmask",
+      "Dynamic Programming",
+      "Memoization"
+    ]
+  },
+  {
     "id": 700,
     "title": "Search in a Binary Search Tree",
     "title_slug": "search-in-a-binary-search-tree",
