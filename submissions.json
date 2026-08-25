@@ -1106,6 +1106,21 @@
     ]
   },
   {
+    "id": 204,
+    "title": "Count Primes",
+    "title_slug": "count-primes",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Math",
+      "Number Theory",
+      "Primality Test",
+      "Prime Number Sieve",
+      "Sieve Theory"
+    ]
+  },
+  {
     "id": 205,
     "title": "Isomorphic Strings",
     "title_slug": "isomorphic-strings",
