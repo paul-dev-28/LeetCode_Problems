@@ -36,6 +36,7 @@
 | 0039 | [Combination Sum](https://leetcode.com/problems/combination-sum) | Medium | `Array` `Backtracking` |
 | 0040 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii) | Medium | `Array` `Backtracking` |
 | 0042 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water) | Hard | `Array` `Dynamic Programming` `Monotonic Stack` `Stack` `Two Pointers` |
+| 0044 | [Wildcard Matching](https://leetcode.com/problems/wildcard-matching) | Hard | `Dynamic Programming` `Greedy` `Recursion` `String` |
 | 0045 | [Jump Game II](https://leetcode.com/problems/jump-game-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0048 | [Rotate Image](https://leetcode.com/problems/rotate-image) | Medium | `Array` `Math` `Matrix` |
 | 0050 | [Pow(x, n)](https://leetcode.com/problems/powx-n) | Medium | `Math` `Recursion` |
