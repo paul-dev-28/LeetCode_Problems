@@ -2899,6 +2899,17 @@
     ]
   },
   {
+    "id": 1092,
+    "title": "Shortest Common Supersequence ",
+    "title_slug": "shortest-common-supersequence",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "Longest Common Subsequence",
+      "String"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",

@@ -266,6 +266,7 @@
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | `Array` `Two Pointers` |
 | 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | Medium | `Array` `Breadth-First Search` `Matrix` |
+| 1092 | [Shortest Common Supersequence ](https://leetcode.com/problems/shortest-common-supersequence) | Hard | `Dynamic Programming` `Longest Common Subsequence` `String` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` `Minimax` `Prefix Sum` `Zero-Sum Game` |
 | 1143 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence) | Medium | `Dynamic Programming` `Longest Common Subsequence` `String` |
