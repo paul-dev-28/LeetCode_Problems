@@ -617,6 +617,19 @@
     ]
   },
   {
+    "id": 85,
+    "title": "Maximal Rectangle",
+    "title_slug": "maximal-rectangle",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",

@@ -63,6 +63,7 @@
 | 0079 | [Word Search](https://leetcode.com/problems/word-search) | Medium | `Array` `Backtracking` `Depth-First Search` `Matrix` `String` |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | `Array` `Two Pointers` |
 | 0081 | [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii) | Medium | `Array` `Binary Search` |
+| 0085 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle) | Hard | `Array` `Dynamic Programming` `Matrix` `Monotonic Stack` `Stack` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0090 | [Subsets II](https://leetcode.com/problems/subsets-ii) | Medium | `Array` `Backtracking` `Bit Manipulation` |
 | 0094 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | Easy | `Binary Tree` `Depth-First Search` `Stack` `Tree` |
