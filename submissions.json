@@ -2125,6 +2125,17 @@
     ]
   },
   {
+    "id": 583,
+    "title": "Delete Operation for Two Strings",
+    "title_slug": "delete-operation-for-two-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Longest Common Subsequence",
+      "String"
+    ]
+  },
+  {
     "id": 605,
     "title": "Can Place Flowers",
     "title_slug": "can-place-flowers",
