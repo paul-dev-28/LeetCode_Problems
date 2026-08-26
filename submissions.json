@@ -2904,6 +2904,17 @@
     ]
   },
   {
+    "id": 1143,
+    "title": "Longest Common Subsequence",
+    "title_slug": "longest-common-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Longest Common Subsequence",
+      "String"
+    ]
+  },
+  {
     "id": 1189,
     "title": "Maximum Number of Balloons",
     "title_slug": "maximum-number-of-balloons",
