@@ -384,6 +384,7 @@
 | 2799 | [Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 2812 | [Find the Safest Path in a Grid](https://leetcode.com/problems/find-the-safest-path-in-a-grid) | Medium | `Array` `Binary Search` `Breadth-First Search` `Heap (Priority Queue)` `Matrix` `Union-Find` |
 | 2894 | [Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference) | Easy | `Math` |
+| 2904 | [Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string) | Medium | `Sliding Window` `String` |
 | 2906 | [Construct Product Matrix](https://leetcode.com/problems/construct-product-matrix) | Medium | `Array` `Matrix` `Prefix Sum` |
 | 2958 | [Length of Longest Subarray With at Most K Frequency](https://leetcode.com/problems/length-of-longest-subarray-with-at-most-k-frequency) | Medium | `Array` `Hash Table` `Sliding Window` |
 | 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](https://leetcode.com/problems/smallest-missing-integer-greater-than-sequential-prefix-sum) | Easy | `Array` `Hash Table` `Sorting` |

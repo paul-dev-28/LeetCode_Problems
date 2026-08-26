@@ -4209,6 +4209,16 @@
     ]
   },
   {
+    "id": 2904,
+    "title": "Shortest and Lexicographically Smallest Beautiful String",
+    "title_slug": "shortest-and-lexicographically-smallest-beautiful-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 2906,
     "title": "Construct Product Matrix",
     "title_slug": "construct-product-matrix",
