@@ -505,6 +505,16 @@
     ]
   },
   {
+    "id": 72,
+    "title": "Edit Distance",
+    "title_slug": "edit-distance",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 73,
     "title": "Set Matrix Zeroes",
     "title_slug": "set-matrix-zeroes",

@@ -53,6 +53,7 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` `Newton's Method` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
+| 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance) | Medium | `Dynamic Programming` `String` |
 | 0073 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes) | Medium | `Array` `Hash Table` `Matrix` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | `Array` `Binary Search` `Matrix` |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | `Array` `Bubble Sort` `Quicksort` `Sorting` `Two Pointers` |
