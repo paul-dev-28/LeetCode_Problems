@@ -2867,6 +2867,17 @@
     ]
   },
   {
+    "id": 1091,
+    "title": "Shortest Path in Binary Matrix",
+    "title_slug": "shortest-path-in-binary-matrix",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
