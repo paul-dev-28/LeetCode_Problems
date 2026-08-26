@@ -2008,6 +2008,16 @@
     ]
   },
   {
+    "id": 516,
+    "title": "Longest Palindromic Subsequence",
+    "title_slug": "longest-palindromic-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 520,
     "title": "Detect Capital",
     "title_slug": "detect-capital",
