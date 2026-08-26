@@ -761,6 +761,16 @@
     ]
   },
   {
+    "id": 115,
+    "title": "Distinct Subsequences",
+    "title_slug": "distinct-subsequences",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 118,
     "title": "Pascal's Triangle",
     "title_slug": "pascals-triangle",
