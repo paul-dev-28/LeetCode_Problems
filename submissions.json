@@ -2420,6 +2420,17 @@
     ]
   },
   {
+    "id": 714,
+    "title": "Best Time to Buy and Sell Stock with Transaction Fee",
+    "title_slug": "best-time-to-buy-and-sell-stock-with-transaction-fee",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 717,
     "title": "1-bit and 2-bit Characters",
     "title_slug": "1-bit-and-2-bit-characters",
