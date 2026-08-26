@@ -3050,6 +3050,16 @@
     ]
   },
   {
+    "id": 1312,
+    "title": "Minimum Insertion Steps to Make a String Palindrome",
+    "title_slug": "minimum-insertion-steps-to-make-a-string-palindrome",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 1317,
     "title": "Convert Integer to the Sum of Two No-Zero Integers",
     "title_slug": "convert-integer-to-the-sum-of-two-no-zero-integers",

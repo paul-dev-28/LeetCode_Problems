@@ -280,6 +280,7 @@
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits) | Easy | `Array` `Math` |
 | 1301 | [Number of Paths with Max Score](https://leetcode.com/problems/number-of-paths-with-max-score) | Hard | `Array` `Dynamic Programming` `Matrix` |
 | 1304 | [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero) | Easy | `Array` `Math` |
+| 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome) | Hard | `Dynamic Programming` `String` |
 | 1317 | [Convert Integer to the Sum of Two No-Zero Integers](https://leetcode.com/problems/convert-integer-to-the-sum-of-two-no-zero-integers) | Easy | `Math` |
 | 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number) | Easy | `Greedy` `Math` |
 | 1331 | [Rank Transform of an Array](https://leetcode.com/problems/rank-transform-of-an-array) | Easy | `Array` `Hash Table` `Sorting` |
