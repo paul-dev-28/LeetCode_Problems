@@ -2333,6 +2333,15 @@
     ]
   },
   {
+    "id": 674,
+    "title": "Longest Continuous Increasing Subsequence",
+    "title_slug": "longest-continuous-increasing-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 678,
     "title": "Valid Parenthesis String",
     "title_slug": "valid-parenthesis-string",
