@@ -2345,6 +2345,19 @@
     ]
   },
   {
+    "id": 673,
+    "title": "Number of Longest Increasing Subsequence",
+    "title_slug": "number-of-longest-increasing-subsequence",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Dynamic Programming",
+      "Longest Increasing Subsequence",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 674,
     "title": "Longest Continuous Increasing Subsequence",
     "title_slug": "longest-continuous-increasing-subsequence",

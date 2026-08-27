@@ -216,6 +216,7 @@
 | 0653 | [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst) | Easy | `Binary Search Tree` `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` `Two Pointers` |
 | 0662 | [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
 | 0665 | [Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array) | Medium | `Array` |
+| 0673 | [Number of Longest Increasing Subsequence](https://leetcode.com/problems/number-of-longest-increasing-subsequence) | Medium | `Array` `Binary Indexed Tree` `Dynamic Programming` `Longest Increasing Subsequence` `Segment Tree` |
 | 0674 | [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence) | Easy | `Array` |
 | 0678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string) | Medium | `Bracket Sequences` `Dynamic Programming` `Greedy` `Stack` `String` |
 | 0680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii) | Easy | `Greedy` `String` `Two Pointers` |
