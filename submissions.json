@@ -1321,6 +1321,15 @@
     ]
   },
   {
+    "id": 228,
+    "title": "Summary Ranges",
+    "title_slug": "summary-ranges",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 229,
     "title": "Majority Element II",
     "title_slug": "majority-element-ii",

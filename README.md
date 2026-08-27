@@ -125,6 +125,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
 | 0222 | [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes) | Medium | `Binary Search` `Binary Tree` `Bit Manipulation` `Tree` |
+| 0228 | [Summary Ranges](https://leetcode.com/problems/summary-ranges) | Easy | `Array` |
 | 0229 | [Majority Element II](https://leetcode.com/problems/majority-element-ii) | Medium | `Array` `Boyer–Moore Majority Vote Algorithm` `Counting` `Hash Table` `Sorting` |
 | 0230 | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
