@@ -2993,6 +2993,20 @@
     ]
   },
   {
+    "id": 1048,
+    "title": "Longest String Chain",
+    "title_slug": "longest-string-chain",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Hash Table",
+      "Sorting",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1051,
     "title": "Height Checker",
     "title_slug": "height-checker",

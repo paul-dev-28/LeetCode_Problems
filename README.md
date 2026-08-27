@@ -275,6 +275,7 @@
 | 1022 | [Sum of Root To Leaf Binary Numbers](https://leetcode.com/problems/sum-of-root-to-leaf-binary-numbers) | Easy | `Binary Tree` `Depth-First Search` `Tree` |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game) | Easy | `Brainteaser` `Dynamic Programming` `Game Theory` `Impartial Game` `Math` |
 | 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight) | Easy | `Array` `Heap (Priority Queue)` |
+| 1048 | [Longest String Chain](https://leetcode.com/problems/longest-string-chain) | Medium | `Array` `Dynamic Programming` `Hash Table` `Sorting` `String` `Two Pointers` |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker) | Easy | `Array` `Bubble Sort` `Counting Sort` `Sorting` |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 1089 | [Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros) | Easy | `Array` `Two Pointers` |
