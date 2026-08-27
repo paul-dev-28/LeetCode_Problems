@@ -5145,6 +5145,19 @@
     ]
   },
   {
+    "id": 3720,
+    "title": "Lexicographically Smallest Permutation Greater Than Target",
+    "title_slug": "lexicographically-smallest-permutation-greater-than-target",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Enumeration",
+      "Greedy",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3721,
     "title": "Longest Balanced Subarray II",
     "title_slug": "longest-balanced-subarray-ii",
