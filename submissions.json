@@ -4201,6 +4201,21 @@
     ]
   },
   {
+    "id": 2407,
+    "title": "Longest Increasing Subsequence II",
+    "title_slug": "longest-increasing-subsequence-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Binary Indexed Tree",
+      "Divide and Conquer",
+      "Dynamic Programming",
+      "Monotonic Queue",
+      "Queue",
+      "Segment Tree"
+    ]
+  },
+  {
     "id": 2413,
     "title": "Smallest Even Multiple",
     "title_slug": "smallest-even-multiple",
