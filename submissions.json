@@ -2223,6 +2223,18 @@
     ]
   },
   {
+    "id": 561,
+    "title": "Array Partition",
+    "title_slug": "array-partition",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 566,
     "title": "Reshape the Matrix",
     "title_slug": "reshape-the-matrix",

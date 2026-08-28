@@ -205,6 +205,7 @@
 | 0547 | [Number of Provinces](https://leetcode.com/problems/number-of-provinces) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii) | Easy | `String` `Two Pointers` |
 | 0560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
+| 0561 | [Array Partition](https://leetcode.com/problems/array-partition) | Easy | `Array` `Counting Sort` `Greedy` `Sorting` |
 | 0566 | [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix) | Easy | `Array` `Matrix` `Simulation` |
 | 0575 | [Distribute Candies](https://leetcode.com/problems/distribute-candies) | Easy | `Array` `Hash Table` |
 | 0583 | [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings) | Medium | `Dynamic Programming` `Longest Common Subsequence` `String` |
