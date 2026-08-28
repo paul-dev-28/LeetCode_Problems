@@ -3102,6 +3102,20 @@
     ]
   },
   {
+    "id": 1122,
+    "title": "Relative Sort Array",
+    "title_slug": "relative-sort-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bubble Sort",
+      "Counting Sort",
+      "Hash Table",
+      "Quicksort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
