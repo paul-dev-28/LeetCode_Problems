@@ -3414,6 +3414,18 @@
     ]
   },
   {
+    "id": 1385,
+    "title": "Find the Distance Value Between Two Arrays",
+    "title_slug": "find-the-distance-value-between-two-arrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1386,
     "title": "Cinema Seat Allocation",
     "title_slug": "cinema-seat-allocation",

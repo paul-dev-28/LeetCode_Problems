@@ -312,6 +312,7 @@
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number) | Easy | `Array` `Counting Sort` `Hash Table` `Sorting` |
 | 1373 | [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree) | Hard | `Binary Search Tree` `Binary Tree` `DP on Trees` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 1382 | [Balance a Binary Search Tree](https://leetcode.com/problems/balance-a-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Divide and Conquer` `Greedy` `Tree` |
+| 1385 | [Find the Distance Value Between Two Arrays](https://leetcode.com/problems/find-the-distance-value-between-two-arrays) | Easy | `Array` `Binary Search` `Sorting` `Two Pointers` |
 | 1386 | [Cinema Seat Allocation](https://leetcode.com/problems/cinema-seat-allocation) | Medium | `Array` `Bit Manipulation` `Greedy` `Hash Table` |
 | 1404 | [Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one) | Medium | `Bit Manipulation` `Simulation` `String` |
 | 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii) | Hard | `Array` `Dynamic Programming` `Game Theory` `Math` `Minimax` `Zero-Sum Game` |
