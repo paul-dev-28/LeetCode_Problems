@@ -5268,6 +5268,17 @@
     ]
   },
   {
+    "id": 3734,
+    "title": "Lexicographically Smallest Palindromic Permutation Greater Than Target",
+    "title_slug": "lexicographically-smallest-palindromic-permutation-greater-than-target",
+    "difficulty": "Hard",
+    "skills": [
+      "Enumeration",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3737,
     "title": "Count Subarrays With Majority Element I",
     "title_slug": "count-subarrays-with-majority-element-i",

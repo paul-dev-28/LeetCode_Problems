@@ -477,6 +477,7 @@
 | 3720 | [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target) | Medium | `Counting` `Enumeration` `Greedy` `Hash Table` `String` |
 | 3721 | [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii) | Hard | `Array` `Divide and Conquer` `Hash Table` `Prefix Sum` `Segment Tree` |
 | 3731 | [Find Missing Elements](https://leetcode.com/problems/find-missing-elements) | Easy | `Array` `Hash Table` `Sorting` |
+| 3734 | [Lexicographically Smallest Palindromic Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-palindromic-permutation-greater-than-target) | Hard | `Enumeration` `String` `Two Pointers` |
 | 3737 | [Count Subarrays With Majority Element I](https://leetcode.com/problems/count-subarrays-with-majority-element-i) | Medium | `Array` `Counting` `Divide and Conquer` `Hash Table` `Merge Sort` `Prefix Sum` `Segment Tree` |
 | 3739 | [Count Subarrays With Majority Element II](https://leetcode.com/problems/count-subarrays-with-majority-element-ii) | Hard | `Array` `Divide and Conquer` `Hash Table` `Merge Sort` `Prefix Sum` `Segment Tree` |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | Easy | `Math` |
