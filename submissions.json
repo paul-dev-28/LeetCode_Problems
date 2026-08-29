@@ -6090,5 +6090,12 @@
     "title_slug": "minimum-bishop-moves-to-reach-target",
     "difficulty": "Medium",
     "skills": []
+  },
+  {
+    "id": 4036,
+    "title": "Lexicographically Largest String After Pair Transformations",
+    "title_slug": "lexicographically-largest-string-after-pair-transformations",
+    "difficulty": "Medium",
+    "skills": []
   }
 ]
