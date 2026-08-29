@@ -4538,6 +4538,17 @@
     ]
   },
   {
+    "id": 2948,
+    "title": "Make Lexicographically Smallest Array by Swapping Elements",
+    "title_slug": "make-lexicographically-smallest-array-by-swapping-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 2958,
     "title": "Length of Longest Subarray With at Most K Frequency",
     "title_slug": "length-of-longest-subarray-with-at-most-k-frequency",
