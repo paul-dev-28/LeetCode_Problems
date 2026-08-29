@@ -6083,5 +6083,12 @@
     "title_slug": "longest-subarray-with-at-most-k-distinct-prime-factors",
     "difficulty": "Medium",
     "skills": []
+  },
+  {
+    "id": 4034,
+    "title": "Minimum Bishop Moves to Reach Target",
+    "title_slug": "minimum-bishop-moves-to-reach-target",
+    "difficulty": "Medium",
+    "skills": []
   }
 ]
