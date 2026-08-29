@@ -1576,6 +1576,16 @@
     ]
   },
   {
+    "id": 312,
+    "title": "Burst Balloons",
+    "title_slug": "burst-balloons",
+    "difficulty": "Hard",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 322,
     "title": "Coin Change",
     "title_slug": "coin-change",
