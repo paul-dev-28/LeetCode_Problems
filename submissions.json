@@ -6092,6 +6092,13 @@
     "skills": []
   },
   {
+    "id": 4035,
+    "title": "Maximum Valid Split Positions I",
+    "title_slug": "maximum-valid-split-positions-i",
+    "difficulty": "Medium",
+    "skills": []
+  },
+  {
     "id": 4036,
     "title": "Lexicographically Largest String After Pair Transformations",
     "title_slug": "lexicographically-largest-string-after-pair-transformations",

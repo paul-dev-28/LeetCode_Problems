@@ -554,4 +554,5 @@
 | 4031 | [Find All Numbers Disappeared in an Array II](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array-ii) | Medium |  |
 | 4032 | [Longest Subarray With at Most K Distinct Prime Factors](https://leetcode.com/problems/longest-subarray-with-at-most-k-distinct-prime-factors) | Medium |  |
 | 4034 | [Minimum Bishop Moves to Reach Target](https://leetcode.com/problems/minimum-bishop-moves-to-reach-target) | Medium |  |
+| 4035 | [Maximum Valid Split Positions I](https://leetcode.com/problems/maximum-valid-split-positions-i) | Medium |  |
 | 4036 | [Lexicographically Largest String After Pair Transformations](https://leetcode.com/problems/lexicographically-largest-string-after-pair-transformations) | Medium |  |
