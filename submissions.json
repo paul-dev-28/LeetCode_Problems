@@ -4182,6 +4182,16 @@
     ]
   },
   {
+    "id": 2091,
+    "title": "Removing Minimum and Maximum From Array",
+    "title_slug": "removing-minimum-and-maximum-from-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
+  },
+  {
     "id": 2094,
     "title": "Finding 3-Digit Even Numbers",
     "title_slug": "finding-3-digit-even-numbers",
