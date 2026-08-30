@@ -890,6 +890,19 @@
     ]
   },
   {
+    "id": 126,
+    "title": "Word Ladder II",
+    "title_slug": "word-ladder-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Backtracking",
+      "Bidirectional Search",
+      "Breadth-First Search",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 127,
     "title": "Word Ladder",
     "title_slug": "word-ladder",

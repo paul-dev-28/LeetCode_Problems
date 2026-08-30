@@ -87,6 +87,7 @@
 | 0123 | [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii) | Hard | `Array` `Dynamic Programming` |
 | 0124 | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum) | Hard | `Binary Tree` `DP on Trees` `Depth-First Search` `Dynamic Programming` `Tree` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
+| 0126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard | `Backtracking` `Bidirectional Search` `Breadth-First Search` `Hash Table` `String` |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | `Bidirectional Search` `Breadth-First Search` `Hash Table` `String` |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
