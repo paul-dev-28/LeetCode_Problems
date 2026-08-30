@@ -6111,5 +6111,12 @@
     "title_slug": "count-integers-appearing-in-a-single-block",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 4039,
+    "title": "Sum of Decoded Numbers",
+    "title_slug": "sum-of-decoded-numbers",
+    "difficulty": "Medium",
+    "skills": []
   }
 ]
