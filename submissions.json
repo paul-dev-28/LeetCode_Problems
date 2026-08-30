@@ -6116,6 +6116,13 @@
     "skills": []
   },
   {
+    "id": 4037,
+    "title": "Maximum Valid Split Positions II",
+    "title_slug": "maximum-valid-split-positions-ii",
+    "difficulty": "Hard",
+    "skills": []
+  },
+  {
     "id": 4038,
     "title": "Count Integers Appearing in a Single Block",
     "title_slug": "count-integers-appearing-in-a-single-block",
