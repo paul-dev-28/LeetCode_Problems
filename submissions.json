@@ -6104,5 +6104,12 @@
     "title_slug": "lexicographically-largest-string-after-pair-transformations",
     "difficulty": "Medium",
     "skills": []
+  },
+  {
+    "id": 4038,
+    "title": "Count Integers Appearing in a Single Block",
+    "title_slug": "count-integers-appearing-in-a-single-block",
+    "difficulty": "Easy",
+    "skills": []
   }
 ]
