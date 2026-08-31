@@ -4474,6 +4474,18 @@
     ]
   },
   {
+    "id": 2614,
+    "title": "Prime In Diagonal",
+    "title_slug": "prime-in-diagonal",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math",
+      "Matrix",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 2652,
     "title": "Sum Multiples",
     "title_slug": "sum-multiples",

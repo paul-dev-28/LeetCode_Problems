@@ -407,6 +407,7 @@
 | 2544 | [Alternating Digit Sum](https://leetcode.com/problems/alternating-digit-sum) | Easy | `Math` |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array) | Easy | `Array` `Simulation` |
 | 2587 | [Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score) | Medium | `Array` `Greedy` `Prefix Sum` `Sorting` |
+| 2614 | [Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal) | Easy | `Array` `Math` `Matrix` `Number Theory` |
 | 2652 | [Sum Multiples](https://leetcode.com/problems/sum-multiples) | Easy | `Math` |
 | 2685 | [Count the Number of Complete Components](https://leetcode.com/problems/count-the-number-of-complete-components) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 2748 | [Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
