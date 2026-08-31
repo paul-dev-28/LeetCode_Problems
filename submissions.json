@@ -5162,6 +5162,19 @@
     ]
   },
   {
+    "id": 3591,
+    "title": "Check if Any Element Has Prime Frequency",
+    "title_slug": "check-if-any-element-has-prime-frequency",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3600,
     "title": "Maximize Spanning Tree Stability with Upgrades",
     "title_slug": "maximize-spanning-tree-stability-with-upgrades",

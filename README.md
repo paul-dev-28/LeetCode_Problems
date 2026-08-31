@@ -467,6 +467,7 @@
 | 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i) | Medium | `Array` `Enumeration` `Matrix` `Prefix Sum` |
 | 3548 | [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii) | Hard | `Array` `Enumeration` `Hash Table` `Matrix` `Prefix Sum` |
 | 3567 | [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix) | Medium | `Array` `Matrix` `Sorting` |
+| 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 3600 | [Maximize Spanning Tree Stability with Upgrades](https://leetcode.com/problems/maximize-spanning-tree-stability-with-upgrades) | Hard | `Binary Search` `Graph Theory` `Greedy` `Minimum Spanning Tree` `Union-Find` |
 | 3612 | [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i) | Medium | `Simulation` `String` |
 | 3620 | [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways) | Hard | `Array` `Binary Search` `Dynamic Programming` `Graph Theory` `Heap (Priority Queue)` `Shortest Path` `Topological Sort` |
