@@ -4195,6 +4195,15 @@
     ]
   },
   {
+    "id": 2058,
+    "title": "Find the Minimum and Maximum Number of Nodes Between Critical Points",
+    "title_slug": "find-the-minimum-and-maximum-number-of-nodes-between-critical-points",
+    "difficulty": "Medium",
+    "skills": [
+      "Linked List"
+    ]
+  },
+  {
     "id": 2091,
     "title": "Removing Minimum and Maximum From Array",
     "title_slug": "removing-minimum-and-maximum-from-array",

@@ -381,6 +381,7 @@
 | 2016 | [Maximum Difference Between Increasing Elements](https://leetcode.com/problems/maximum-difference-between-increasing-elements) | Easy | `Array` |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix) | Medium | `Array` `Counting` `Game Theory` `Greedy` `Math` `Minimax` `Nim Game` `Zero-Sum Game` |
 | 2035 | [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference) | Hard | `Array` `Binary Search` `Bit Manipulation` `Bitmask` `Dynamic Programming` `Meet in the Middle` `Ordered Set` `Sorting` `Two Pointers` |
+| 2058 | [Find the Minimum and Maximum Number of Nodes Between Critical Points](https://leetcode.com/problems/find-the-minimum-and-maximum-number-of-nodes-between-critical-points) | Medium | `Linked List` |
 | 2091 | [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array) | Medium | `Array` `Greedy` |
 | 2094 | [Finding 3-Digit Even Numbers](https://leetcode.com/problems/finding-3-digit-even-numbers) | Easy | `Array` `Enumeration` `Hash Table` `Recursion` `Sorting` |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list) | Medium | `Linked List` `Two Pointers` |
