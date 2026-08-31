@@ -4952,6 +4952,19 @@
     ]
   },
   {
+    "id": 3411,
+    "title": "Maximum Subarray With Equal Products",
+    "title_slug": "maximum-subarray-with-equal-products",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Math",
+      "Number Theory",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3432,
     "title": "Count Partitions with Even Sum Difference",
     "title_slug": "count-partitions-with-even-sum-difference",
