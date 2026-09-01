@@ -5175,6 +5175,19 @@
     ]
   },
   {
+    "id": 3568,
+    "title": "Minimum Moves to Clean the Classroom",
+    "title_slug": "minimum-moves-to-clean-the-classroom",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Breadth-First Search",
+      "Hash Table",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3591,
     "title": "Check if Any Element Has Prime Frequency",
     "title_slug": "check-if-any-element-has-prime-frequency",
