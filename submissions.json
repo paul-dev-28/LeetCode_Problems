@@ -2645,6 +2645,16 @@
     ]
   },
   {
+    "id": 766,
+    "title": "Toeplitz Matrix",
+    "title_slug": "toeplitz-matrix",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
+  },
+  {
     "id": 771,
     "title": "Jewels and Stones",
     "title_slug": "jewels-and-stones",
