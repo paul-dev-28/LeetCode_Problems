@@ -5654,6 +5654,16 @@
     ]
   },
   {
+    "id": 3876,
+    "title": "Construct Uniform Parity Array II",
+    "title_slug": "construct-uniform-parity-array-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3898,
     "title": "Find the Degree of Each Vertex",
     "title_slug": "find-the-degree-of-each-vertex",
