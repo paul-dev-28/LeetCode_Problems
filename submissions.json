@@ -3145,6 +3145,17 @@
     ]
   },
   {
+    "id": 1106,
+    "title": "Parsing A Boolean Expression",
+    "title_slug": "parsing-a-boolean-expression",
+    "difficulty": "Hard",
+    "skills": [
+      "Recursion",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 1122,
     "title": "Relative Sort Array",
     "title_slug": "relative-sort-array",
