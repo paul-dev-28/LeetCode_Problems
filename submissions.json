@@ -3075,6 +3075,16 @@
     ]
   },
   {
+    "id": 1043,
+    "title": "Partition Array for Maximum Sum",
+    "title_slug": "partition-array-for-maximum-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1046,
     "title": "Last Stone Weight",
     "title_slug": "last-stone-weight",
