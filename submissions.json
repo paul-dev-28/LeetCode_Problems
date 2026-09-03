@@ -2550,6 +2550,21 @@
     ]
   },
   {
+    "id": 721,
+    "title": "Accounts Merge",
+    "title_slug": "accounts-merge",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Sorting",
+      "String",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 724,
     "title": "Find Pivot Index",
     "title_slug": "find-pivot-index",

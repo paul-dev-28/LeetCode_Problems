@@ -235,6 +235,7 @@
 | 0709 | [To Lower Case](https://leetcode.com/problems/to-lower-case) | Easy | `String` |
 | 0714 | [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0717 | [1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters) | Easy | `Array` |
+| 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `String` `Union-Find` |
 | 0724 | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index) | Easy | `Array` `Prefix Sum` |
 | 0728 | [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers) | Easy | `Math` |
 | 0733 | [Flood Fill](https://leetcode.com/problems/flood-fill) | Easy | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
