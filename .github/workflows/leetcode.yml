@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Run LeetCode Synchronizer
-        uses: paul-dev-28/LeetCode-Synchronizer@main
+        uses: paul-dev-28/LeetSync@main
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           LEETCODE_SESSION: ${{ secrets.LEETCODE_SESSION }}
