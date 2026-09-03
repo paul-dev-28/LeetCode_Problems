@@ -928,6 +928,16 @@
     ]
   },
   {
+    "id": 132,
+    "title": "Palindrome Partitioning II",
+    "title_slug": "palindrome-partitioning-ii",
+    "difficulty": "Hard",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 135,
     "title": "Candy",
     "title_slug": "candy",

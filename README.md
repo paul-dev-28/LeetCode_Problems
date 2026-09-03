@@ -90,6 +90,7 @@
 | 0126 | [Word Ladder II](https://leetcode.com/problems/word-ladder-ii) | Hard | `Backtracking` `Bidirectional Search` `Breadth-First Search` `Hash Table` `String` |
 | 0127 | [Word Ladder](https://leetcode.com/problems/word-ladder) | Hard | `Bidirectional Search` `Breadth-First Search` `Hash Table` `String` |
 | 0130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` `Union-Find` |
+| 0132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii) | Hard | `Dynamic Programming` `String` |
 | 0135 | [Candy](https://leetcode.com/problems/candy) | Hard | `Array` `Greedy` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle) | Easy | `Floyd's Cycle Finding Algorithm` `Hash Table` `Linked List` `Two Pointers` |
