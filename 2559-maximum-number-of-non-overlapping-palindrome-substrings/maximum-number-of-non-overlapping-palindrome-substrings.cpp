@@ -1,26 +1,28 @@
 class Solution {
 public:
-    int maxPalindromes(string s, int k) {
-        int n=s.size();
-        vector<vector<bool>>pal(n,vector<bool>(n));
-        for(int i=n-1;i>=0;i--)
+    bool isPalindrome(const string& s,int l,int r) {
+        while(l<r)
         {
-            for(int j=i;j<n;j++)
+            if(s[l++]!=s[r--])
+                return false;
+        }
+        return true;
+    }
+    int maxPalindromes(string s,int k) {
+        int n=s.size(),ans=0;
+        for(int i=0;i<=n-k;i++)
+        {
+            if(isPalindrome(s,i,i+k-1))
             {
-                if(s[i]==s[j] && (j-i<2 || pal[i+1][j-1]))
-                    pal[i][j]=true;
+                ans++;
+                i+=k-1;
+            }
+            else if(i+k<n && isPalindrome(s,i,i+k))
+            {
+                ans++;
+                i+=k;
             }
         }
-        vector<int>dp(n+1);
-        for(int i=1;i<=n;i++)
-        {
-            dp[i]=dp[i-1];
-            for(int j=0;j<i;j++)
-            {
-                if(i-j>=k && pal[j][i-1])
-                    dp[i]=max(dp[i],dp[j]+1);
-            }
-        }
-        return dp[n];
+        return ans;
     }
 };
