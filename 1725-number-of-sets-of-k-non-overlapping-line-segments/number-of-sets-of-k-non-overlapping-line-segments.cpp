@@ -1,23 +1,24 @@
 class Solution {
 public:
     int numberOfSets(int n,int k) {
-        const int MOD=1e9+7;
-        vector<vector<int>>f(n+1,vector<int>(k+1));
-        vector<vector<int>>g(n+1,vector<int>(k+1));
-        f[1][0]=1;
-        for(int i=2;i<=n;i++)
+        const long long MOD=1e9+7;
+        long long ans=1;
+        for(int i=1;i<=2*k;i++)
         {
-            for(int j=0;j<=k;j++)
-            {
-                f[i][j]=(f[i-1][j]+g[i-1][j])%MOD;
-                g[i][j]=g[i-1][j];
-                if(j)
-                {
-                    g[i][j]=(g[i][j]+f[i-1][j-1])%MOD;
-                    g[i][j]=(g[i][j]+g[i-1][j-1])%MOD;
-                }
-            }
+            ans=ans*(n+k-i)%MOD;
+            ans=ans*modpow(i,MOD-2)%MOD;
         }
-        return (f[n][k]+g[n][k])%MOD;
+        return ans;
+    }
+    long long modpow(long long a,long long b) {
+        long long ans=1;
+        while(b)
+        {
+            if(b&1)
+                ans=ans*a%1000000007;
+            a=a*a%1000000007;
+            b>>=1;
+        }
+        return ans;
     }
 };
