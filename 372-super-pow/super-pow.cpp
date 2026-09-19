@@ -1,7 +1,7 @@
 class Solution
 {
 public:
-    int power(long long a,long long b)
+    int power(long long a,int b)
     {
         long long ans=1;
         a%=1337;
@@ -16,11 +16,10 @@ public:
     }
     int superPow(int a,vector<int>& b)
     {
-        int p=0;
+        long long ans=1;
+        a%=1337;
         for(int x:b)
-            p=(p*10+x)%1140;
-        if(p==0)
-            p=1140;
-        return power(a,p);
+            ans=power(ans,10)*power(a,x)%1337;
+        return ans;
     }
 };
