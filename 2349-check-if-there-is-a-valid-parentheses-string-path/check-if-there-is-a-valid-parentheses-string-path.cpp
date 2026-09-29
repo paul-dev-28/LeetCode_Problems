@@ -1,37 +1,40 @@
 class Solution {
 public:
-    bool hasValidPath(vector<vector<char>>& grid) {
+    bool hasValidPath(vector<vector<char>>& grid)
+    {
         int m=grid.size(),n=grid[0].size();
-        int len=m+n-1;
-        if(len%2)
+        if((m+n-1)%2!=0)
             return false;
-        if(grid[0][0]==')' || grid[m-1][n-1]=='(')
+        if(grid[0][0]!='(' || grid[m-1][n-1]!=')')
             return false;
-        vector<vector<vector<bool>>> dp(m,vector<vector<bool>>(n,vector<bool>(len+1,false)));
-        dp[0][0][1]=true;
-        for(int i=0;i<m;i++)
+        vector<bitset<205>> dp(n);
+        int bal=0;
+        for(int j=0;j<n;j++)
         {
+            bal+=(grid[0][j]=='('?1:-1);
+            if(bal<0)
+                break;
+            dp[j].set(bal);
+        }
+        for(int i=1;i<m;i++)
+        {
+            vector<bitset<205>> newDp(n);
             for(int j=0;j<n;j++)
             {
-                for(int b=0;b<=len;b++)
-                {
-                    if(!dp[i][j][b])
-                        continue;
-                    if(i+1<m)
-                    {
-                        int nb=b+(grid[i+1][j]=='('?1:-1);
-                        if(nb>=0)
-                            dp[i+1][j][nb]=true;
-                    }
-                    if(j+1<n)
-                    {
-                        int nb=b+(grid[i][j+1]=='('?1:-1);
-                        if(nb>=0)
-                            dp[i][j+1][nb]=true;
-                    }
-                }
+                bitset<205> incoming;
+                if(j>0)
+                    incoming|=newDp[j-1];
+                incoming|=dp[j];
+                if(incoming.none())
+                    continue;
+                if(grid[i][j]=='(')
+                    incoming<<=1;
+                else
+                    incoming>>=1;
+                newDp[j]=incoming;
             }
+            dp=move(newDp);
         }
-        return dp[m-1][n-1][0];
+        return dp[n-1].test(0);
     }
 };
